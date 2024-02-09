@@ -16,11 +16,11 @@ A little more about me...
   ----------------------------------------------------------
   Languages:
   
-    ![C++Mod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/f058494e-71c8-4f86-887c-27e943778d0f)~![C#Mod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/bff6f2c5-3084-493c-8bab-757852a10d89)~![JSMod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/23e654c8-c076-4d49-b7fc-71fabeb022d2)
+    ![C++Mod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/f058494e-71c8-4f86-887c-27e943778d0f) ~ ![C#Mod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/bff6f2c5-3084-493c-8bab-757852a10d89) ~ ![JSMod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/23e654c8-c076-4d49-b7fc-71fabeb022d2)
 
   Front-End Development:
   
-  ![html-5 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/cb01d56a-7abc-4914-bf6f-95299fc291e9)~![css-3 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/2e2cb8a8-9151-4e81-b054-5da30373ef45)~![JSMod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/4bff1ac1-f43b-4510-9c56-b7f940d0c362)
+  ![html-5 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/cb01d56a-7abc-4914-bf6f-95299fc291e9) ~ ![css-3 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/2e2cb8a8-9151-4e81-b054-5da30373ef45) ~ ![JSMod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/4bff1ac1-f43b-4510-9c56-b7f940d0c362)
 
   Back-End Development:
   
@@ -29,7 +29,7 @@ A little more about me...
 
   Tools:
 
-  ![visual-studio 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/1f3b228d-de39-42ea-8bd1-2f9b714a8d88)~![mysql 2](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/7753e085-b27e-4d82-a877-3ae3484a22c4)~![photoshop 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/f0dffa7e-5062-4ad8-8501-a33654d320ce)
+  ![visual-studio 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/1f3b228d-de39-42ea-8bd1-2f9b714a8d88) ~ ![mysql 2](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/7753e085-b27e-4d82-a877-3ae3484a22c4) ~ ![photoshop 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/f0dffa7e-5062-4ad8-8501-a33654d320ce)
 
 
 <!---
