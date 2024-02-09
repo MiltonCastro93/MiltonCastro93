@@ -22,11 +22,10 @@ A little more about me...
   
   ![html-5 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/cb01d56a-7abc-4914-bf6f-95299fc291e9)~![css-3 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/2e2cb8a8-9151-4e81-b054-5da30373ef45)~![JSMod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/4bff1ac1-f43b-4510-9c56-b7f940d0c362)
 
-
-
-
   Back-End Development:
-    MySQL
+  
+  ![mysql 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/2ec54574-2669-4b41-b304-95fded5cfe7e)
+
 
   Tools:
     Visual Studio, Visual Studio Code, MySQL Workbench 8.0 CE, Photoshop
