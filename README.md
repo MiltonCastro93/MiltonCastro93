@@ -11,6 +11,8 @@ A little more about me...
   ----------------------------------------------------------
   Languages:
     C++  ~  C#  ~  JavaScript
+  ![image](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/c2bfc52c-4f4e-4c07-a912-3673d0e3fca8)
+
 
   Front-End Development:
     CSS  ~  JavaScript
