@@ -16,6 +16,7 @@ A little more about me...
   ----------------------------------------------------------
   Languages:
     C++  ~  C#  ~  JavaScript
+![c-numeral-icono-logo-software](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/7f66a917-53a0-49d3-a32f-7938521abdff)
 
   Front-End Development:
     HTML5      ~      CSS      ~      JavaScript
