@@ -10,8 +10,16 @@ A little more about me...
 - 📫 If you want to get in touch with me, I leave you this link! miltondeniscastro.1993@gmail.com
   ----------------------------------------------------------
   Languages:
-![png-transparent-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-trademark](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/ca9265fc-2e67-485b-a637-98c275c11652)
+    C++  ~  C#  ~  JavaScript
 
+  Front-End Development:
+    CSS  ~  JavaScript
+
+  Back-End Development:
+    MySQL
+
+  Tools:
+    Visual Studio, Visual Studio Code, MySQL Workbench 8.0 CE, Photoshop
 
 <!---
 MiltonCastro93/MiltonCastro93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
