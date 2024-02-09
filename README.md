@@ -18,10 +18,8 @@ A little more about me...
   
     ![C++Mod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/f058494e-71c8-4f86-887c-27e943778d0f)~![C#Mod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/bff6f2c5-3084-493c-8bab-757852a10d89)~![JSMod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/23e654c8-c076-4d49-b7fc-71fabeb022d2)
 
-
-
-
   Front-End Development:
+  
   ![html-5 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/cb01d56a-7abc-4914-bf6f-95299fc291e9)~![css-3 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/2e2cb8a8-9151-4e81-b054-5da30373ef45)~![JSMod](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/4bff1ac1-f43b-4510-9c56-b7f940d0c362)
 
 
