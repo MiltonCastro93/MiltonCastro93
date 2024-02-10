@@ -9,11 +9,11 @@ A little more about me...
 - 💞️ I love feedback; it fuels my passion for helping others. I find great joy in reading other people's code because, for me, it's an ongoing learning experience.
 - 📫 If you want to get in touch with me, I leave you this link! miltondeniscastro.1993@gmail.com
 - 👨‍💻 My certificates:
-    - Front-End
-              1) https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748
-              2) https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992
-    - Back-End(I’m currently learning)
-              1) https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037
+    - Front-End:
+              https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748
+              https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992
+    - Back-End:
+              https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037
   ----------------------------------------------------------
   Languages:
   
