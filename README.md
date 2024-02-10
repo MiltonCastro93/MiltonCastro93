@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **miltondeniscastro.1993@gmail.com**
 
-- 📄 Know about my experiences [Castro Milton 01.pdf](https://github.com/MiltonCastro93/MiltonCastro93/files/14230273/Castro.Milton.01.pdf)
-
+- 📄 Know about my experiences [Cv Milton Castro.pdf](https://github.com/MiltonCastro93/MiltonCastro93/files/14230274/Cv.Milton.Castro.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,7 +43,9 @@
 <h3 align="left">Framework: </h3>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 
-<h3 align="left">Tools: </h3>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<h3 align="left">Software: </h3>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+ 
+
 </p>
 
