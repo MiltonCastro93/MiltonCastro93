@@ -3,7 +3,7 @@ Over the past three years, I've immersed myself in the world of programming, ded
 ----------------------------------
 A little more about me...
 - ⚡ I am currently working as a freelance for a small PYME/SME specializing in vehicle transportation. I am covering the full-stack position. Here is a link to the website: https://elpajaroremolques.000webhostapp.com/
-- 👀 I’m interested in programming
+- 👀 That's awesome! Here's the translation: "I'm interested in the world of PCs, I love programming, and I enjoy continuous learning.
 
 - 🌱 After spending a considerable amount of time programming, I've gained expertise in C++, C#, JavaScript, HTML5, and SQL. Throughout this journey, I've come to realize that there's always something new to learn.
 - 💞️ I love feedback; it fuels my passion for helping others. I find great joy in reading other people's code because, for me, it's an ongoing learning experience.
