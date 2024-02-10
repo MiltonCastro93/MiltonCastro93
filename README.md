@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **miltondeniscastro.1993@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ubWVX8N4XzpL3sB1LWR5IVVSIsh_FvWNvR0-6U160PQ/edit](https://docs.google.com/document/d/1ubWVX8N4XzpL3sB1LWR5IVVSIsh_FvWNvR0-6U160PQ/edit)
+- 📄 Know about my experiences [Castro Milton 01.pdf](https://github.com/MiltonCastro93/MiltonCastro93/files/14230273/Castro.Milton.01.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
