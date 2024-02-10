@@ -29,7 +29,7 @@ A little more about me...
 
   Tools:
 
-  ![visual-studio 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/1f3b228d-de39-42ea-8bd1-2f9b714a8d88) ~ ![mysql 2](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/7753e085-b27e-4d82-a877-3ae3484a22c4) ~ ![photoshop 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/f0dffa7e-5062-4ad8-8501-a33654d320ce)
+  ![visual-studio 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/1f3b228d-de39-42ea-8bd1-2f9b714a8d88)  ![mysql 2](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/7753e085-b27e-4d82-a877-3ae3484a22c4)  ![photoshop 1](https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/f0dffa7e-5062-4ad8-8501-a33654d320ce)
 
 
 <!---
