@@ -8,8 +8,7 @@ A little more about me...
 - 🌱 After spending a considerable amount of time programming, I've gained expertise in C++, C#, JavaScript, HTML5, and SQL. Throughout this journey, I've come to realize that there's always something new to learn.
 - 💞️ I love feedback; it fuels my passion for helping others. I find great joy in reading other people's code because, for me, it's an ongoing learning experience.
 - 📫 If you want to get in touch with me, I leave you this link!
-
-      miltondeniscastro.1993@gmail.com
+  + miltondeniscastro.1993@gmail.com
 - 👨‍💻 My certificates:
     - Front-End:
               https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748
