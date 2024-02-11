@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [several freelance projects, one of them is 'Trailers'. I leave you a link:](https://elpajaroremolques.000webhostapp.com/)
 
-- 🌱 What I’ve learned about… I did thanks to the EducationIT coursers and certifications
+- 🌱 What I’ve learned about… I did thanks to the EducationIT coursers and certifications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiltonCastro93?tab=repositories](https://github.com/MiltonCastro93?tab=repositories)
 
-- 💬 I enjoy talking about **video games, series, and movies, although I would like to get to know the whole world**
+- 💬 I enjoy talking about video games, series, and movies.
 
 - 📫 How to reach me **miltondeniscastro.1993@gmail.com**
 
