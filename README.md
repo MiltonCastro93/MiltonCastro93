@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [several freelance projects, one of them is 'Trailers'. I leave you a link:](https://elpajaroremolques.000webhostapp.com/)
 
-- 🌱 I'm learning everything **thanks to EducacionIT. They provided me with theoretical knowledge, and now I'm gaining hands-on experience by doing freelance work**
+- 🌱 What I’ve learned about… I did thanks to the EducationIT coursers and certifications
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiltonCastro93?tab=repositories](https://github.com/MiltonCastro93?tab=repositories)
 
