@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate fullstack developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [several freelance projects, one of them is 'Trailers'. I leave you a link:] <a href="https://elpajaroremolques.000webhostapp.com/" target="black>
+- 🔭 I’m currently working on [several freelance projects, one of them is 'Trailers'. I leave you a link:](https://elpajaroremolques.000webhostapp.com/)
 
 - 🌱 What I’ve learned about… I did thanks to the EducationIT coursers and certifications.
 
