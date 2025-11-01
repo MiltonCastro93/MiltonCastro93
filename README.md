@@ -19,7 +19,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 
 - 📫 Cómo contactarme: **miltondeniscastro.1993@gmail.com**
 
-- 📄 Conoce mi experiencia [Cv Milton Castro.pdf](https://github.com/MiltonCastro93/MiltonCastro93/files/14230274/Cv.Milton.Castro.pdf)
+- 📄 Conoce mi experiencia [Cv Milton Castro.pdf](https://github.com/MiltonCastro93/hello-world/blob/main/CV%20Milton%20Denis%20Castro.pdf)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
