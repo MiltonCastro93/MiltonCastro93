@@ -57,6 +57,11 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
  <a href="https://git-fork.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="unreal engine" width="60" height="60"/>
 </a>
+ <a href="https://krita.org/es/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" alt="unreal engine" width="60" height="60"/>
+</a>
+
+
 
 </p>
 
