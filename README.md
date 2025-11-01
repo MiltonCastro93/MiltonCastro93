@@ -38,9 +38,9 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h4 align="left">👨‍💻 Certificados:</h4>
 <p align="left">
-  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">Certificado 68748</a><br>
-  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Certificado 68992</a><br>
-  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Certificado 69037</a>
+  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">JavaScript</a><br>
+  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Desarrollo Web con HTML</a><br>
+  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Introducción a Bases de Datos y SQL</a>
 </p>
 
 <h4 align="left">💻 Lenguajes de Programación:</h4>
@@ -63,7 +63,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h4>🧱 Diseño 3D y Animación</h4>
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="blender" width="80" height="80"/></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="blender" width="120" height="120"/></a>
 </p>
 
 <h4>🎧 Producción y Edición de Audio</h4>
