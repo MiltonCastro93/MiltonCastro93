@@ -2,7 +2,7 @@
 <p>Soy Milton, desarrollador de videojuegos y programador independiente.
 Mi camino en el desarrollo comenzó en 2006, cuando empecé a dar mis primeros pasos con RPG Maker. Desde entonces, he recorrido un largo trayecto que me llevó a crear proyectos tanto para Android como para PC, utilizando motores potentes como Unity y Unreal Engine.
 He trabajado en numerosos proyectos, tanto de forma individual como colaborativa, y también me he desempeñado como freelancer, vendiendo proyectos a estudiantes y ofreciendo tutorías para resolver consultas específicas.
-Durante los últimos tres años, me he sumergido de lleno en el mundo de la programación, fortaleciendo mis habilidades técnicas y mi capacidad de comunicación. Esta etapa me ha permitido desarrollar una mentalidad creativa y resolutiva, optimizando mi flujo de trabajo y encontrando soluciones innovadoras a cada desafío.
+Durante los últimos años, me he sumergido de lleno en el mundo de la programación, fortaleciendo mis habilidades técnicas y mi capacidad de comunicación. Esta etapa me ha permitido desarrollar una mentalidad creativa y resolutiva, optimizando mi flujo de trabajo y encontrando soluciones innovadoras a cada desafío.
 Actualmente, formo parte de un proyecto personal junto a colegas llamado “El Ladrón Elegante”, un videojuego con estética anime desarrollado en Unity.
 Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer constantemente como profesional, adaptándome a nuevas metodologías y tecnologías para seguir construyendo experiencias interactivas que inspiren y conecten con los jugadores..</p>
 
@@ -30,18 +30,18 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 <a href="https://discord.gg/milton2735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="milton2735" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Skills: </h2>
-<h6 align="left">👨‍💻 My certificates:</h6>
+<h2 align="left">Habilidades: </h2>
+<h6 align="left">👨‍💻 Certificados Extra:</h6>
       <span>https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748</span><br>
       <span>https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992</span><br>
       <span>https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037</span><br>
 <p align="left"> 
-<h3 align="left"> Programming Languages: </h3>
+<h3 align="left"> Lenguajes de Programacion: </h3>
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
-<h3 align="left">Software: </h3>
+<h3 align="left">Programas: </h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
