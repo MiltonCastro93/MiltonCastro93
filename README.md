@@ -17,7 +17,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 
 - 💬 Me gusta hablar de videojuegos, series y películas.
 
-- 📫 How to reach me **miltondeniscastro.1993@gmail.com**
+- 📫 Cómo contactarme: **miltondeniscastro.1993@gmail.com**
 
 - 📄 Know about my experiences [Cv Milton Castro.pdf](https://github.com/MiltonCastro93/MiltonCastro93/files/14230274/Cv.Milton.Castro.pdf)
 
