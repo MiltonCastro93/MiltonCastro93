@@ -49,12 +49,16 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 </p>
 
 <hr>
-<h3>Mis Redes Sociales</h3>
 
 <table align="center">
   <tr>
     <td>
-      <table align="center" cellspacing="10">
+      <table align="center" cellspacing="10" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
+        <tr>
+          <td colspan="5" align="center">
+            <h3>Mis Redes Sociales</h3>
+          </td>
+        </tr>
         <tr>
           <td align="center">
             <a href="https://twitter.com/miltoncast10209">
@@ -127,57 +131,3 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120" height="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120" height="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
 
 <hr>
-
-<table align="center">
-  <tr>
-    <td>
-      <table align="center" cellspacing="10" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
-        <tr>
-          <td colspan="5" align="center">
-            <h3>Mis Redes Sociales</h3>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://twitter.com/miltoncast10209">
-              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.linkedin.com/in/milton-castro-23165a130/">
-              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.facebook.com/milton.castro.9406">
-              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.instagram.com/miltoncastro93/">
-              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://discord.gg/milton2735">
-              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://twitter.com/miltoncast10209">Twitter</a></td>
-          <td align="center"><a href="https://www.linkedin.com/in/milton-castro-23165a130/">LinkedIn</a></td>
-          <td align="center"><a href="https://www.facebook.com/milton.castro.9406">Facebook</a></td>
-          <td align="center"><a href="https://www.instagram.com/miltoncastro93/">Instagram</a></td>
-          <td align="center"><a href="https://discord.gg/milton2735">Discord</a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <h3 align="center">📊 Estadísticas</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MiltonCastro93&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </p>
-    </td>
-  </tr>
-</table>
