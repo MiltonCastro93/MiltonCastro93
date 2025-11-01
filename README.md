@@ -46,7 +46,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" alt="photoshop" width="120" height="120"/>
+  <img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" alt="photoshop" width="60" height="60"/>
 </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="120" height="120"/>
