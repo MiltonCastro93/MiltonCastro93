@@ -8,7 +8,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 
 <h3 align="center">Un Dev Apacionado en Argentina</h3>
 
-- 🔭 I’m currently working on https://www.patreon.com/c/elladronelegante
+- 🔭 Estoy Trabajando en <a href="https://www.patreon.com/c/elladronelegante" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" alt="patreon" width="40" height="40"/></a>
 
 - 🌱 What I’ve learned about… I did thanks to the EducationIT coursers and certifications.
 
