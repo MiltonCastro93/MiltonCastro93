@@ -21,6 +21,16 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
   <li>📄 Conoce mi experiencia: <a href="https://github.com/MiltonCastro93/hello-world/blob/main/CV%20Milton%20Denis%20Castro.pdf" target="_blank">CV Milton Castro</a></li>
 </ul>
 
+<h3 align="left">💼 Experiencia y Proyectos Previos</h3>
+
+<h4>🎮 Proyecto Evento Núcleo (2019) – Unity</h4>
+<p align="left">
+  Repositorio: <a href="https://bitbucket.org/_Milton-Programador/evento-nucleo-2019/src/master/" target="_blank">evento-nucleo-2019</a><br>
+  - Participé en el desarrollo de un videojuego para el evento “Núcleo” en Argentina utilizando Unity.<br>
+  - Trabajé en el prototipo inicial de mecánicas y lógica de juego.<br>
+  - El proyecto quedó en pausa ya que no pude asistir al evento, pero me permitió ampliar mis conocimientos en Unity y en flujo de prototipado rápido.<br>
+</p>
+
 <hr>
 
 <h3 align="left">Conéctate conmigo:</h3>
