@@ -33,7 +33,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Redes Sociales:</h3>
 <p align="left">
   <a href="https://twitter.com/miltoncast10209" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/milton-castro-23165a130/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/></a>
