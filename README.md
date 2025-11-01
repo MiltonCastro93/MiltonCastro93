@@ -91,30 +91,42 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <table align="center">
   <tr>
     <td>
-      <p align="center">
-        <a href="https://twitter.com/miltoncast10209">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
-        </a>
-        <a href="https://www.linkedin.com/in/milton-castro-23165a130/">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-        </a>
-        <a href="https://www.facebook.com/milton.castro.9406">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
-        </a>
-        <a href="https://www.instagram.com/miltoncastro93/">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-        </a>
-        <a href="https://discord.gg/milton2735">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://twitter.com/miltoncast10209">Twitter</a> | 
-        <a href="https://www.linkedin.com/in/milton-castro-23165a130/">LinkedIn</a> | 
-        <a href="https://www.facebook.com/milton.castro.9406">Facebook</a> | 
-        <a href="https://www.instagram.com/miltoncastro93/">Instagram</a> | 
-        <a href="https://discord.gg/milton2735">Discord</a>
-      </p>
+      <table align="center" cellspacing="10">
+        <tr>
+          <td align="center">
+            <a href="https://twitter.com/miltoncast10209">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.linkedin.com/in/milton-castro-23165a130/">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.facebook.com/milton.castro.9406">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.instagram.com/miltoncastro93/">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://discord.gg/milton2735">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://twitter.com/miltoncast10209">Twitter</a></td>
+          <td align="center"><a href="https://www.linkedin.com/in/milton-castro-23165a130/">LinkedIn</a></td>
+          <td align="center"><a href="https://www.facebook.com/milton.castro.9406">Facebook</a></td>
+          <td align="center"><a href="https://www.instagram.com/miltoncastro93/">Instagram</a></td>
+          <td align="center"><a href="https://discord.gg/milton2735">Discord</a></td>
+        </tr>
+      </table>
     </td>
     <td>
       <h3 align="center">📊 Estadísticas</h3>
