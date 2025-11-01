@@ -1,7 +1,7 @@
 <h1 align="center">hi everyone!👋</h1>
 <p>I'm Milton Over the past three years, I've immersed myself in the world of programming, dedicating my time as a freelance developer. I've had the opportunity to collaborate with a diverse range of individuals, honing not only my technical skills but also my ability to communicate effectively and responsibly. This experience has fostered my creativity, allowing me to approach challenges with innovative solutions. Moreover, it has taught me valuable time-saving techniques, enabling me to optimize my workflow efficiently. My journey in programming has not only been about mastering languages and frameworks but also about evolving as a professional who thrives in dynamic environments, constantly learning and adapting to new methodologies and technologies.</p>
 
-<h3 align="center">A passionate fullstack developer from Argentina.</h3>
+<h3 align="center">A passionate developer from Argentina.</h3>
 
 - 🔭 I’m currently working on [several freelance projects, one of them is 'Trailers'. I leave you a link:](https://elpajaroremolques.000webhostapp.com/)
 
