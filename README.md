@@ -75,15 +75,6 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
     <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="git-fork" width="60" height="60"/>
   </a>
 </p>
-<h4>💾 Control de Versiones</h4>
-  <a href="https://git-fork.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="git-fork" width="60" height="60"/>
-  </a>
-</p>
-
-
-
-
 
 </p>
 
