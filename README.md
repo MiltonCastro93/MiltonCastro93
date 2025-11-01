@@ -63,12 +63,12 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h4>🧱 Diseño 3D y Animación</h4>
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="blender" width="120" height="120"/></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="blender" width="140" height="140"/></a>
 </p>
 
 <h4>🎧 Producción y Edición de Audio</h4>
 <p align="left">
-  <a href="https://www.audacityteam.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" alt="audacity" width="60" height="60"/></a>
+  <a href="https://www.audacityteam.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" alt="audacity" width="120" height="120"/></a>
   <a href="https://www.reaper.fm/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" alt="reaper" width="60" height="60"/></a>
   <a href="https://www.image-line.com/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" alt="fl studio" width="60" height="60"/></a>
 </p>
