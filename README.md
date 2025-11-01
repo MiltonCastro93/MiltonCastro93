@@ -55,7 +55,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
   <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" alt="unreal engine" width="40" height="40"/>
 </a>
  <a href="https://git-fork.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/file-icons/icons/blob/master/svg/Fork.svg" alt="unreal engine" width="40" height="40"/>
+  <img src="https://github.com/file-icons/icons/blob/master/svg/Fork.svg" alt="unreal engine" width="120" height="120"/>
 </a>
 
 </p>
