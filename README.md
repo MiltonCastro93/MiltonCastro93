@@ -43,7 +43,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 
 <h3>🧰 Programas Usados</h3>
 
-<h4>🎨 Diseño Artístico</h4>
+<h4>🎨 Diseño Artístico UI/HUD</h4>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
@@ -55,6 +55,12 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
     <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" alt="krita" width="60" height="60"/>
   </a>
 </p>
+
+<h4>🧱 Diseño 3D y Animación</h4>
+<p align="left">
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="figma" width="60" height="60"/>
+  </a>
 
 <h4>⚙️ Motores de Desarrollo</h4>
 <p align="left">
@@ -69,6 +75,12 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
     <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="git-fork" width="60" height="60"/>
   </a>
 </p>
+<h4>💾 Control de Versiones</h4>
+  <a href="https://git-fork.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="git-fork" width="60" height="60"/>
+  </a>
+</p>
+
 
 
 
