@@ -12,8 +12,8 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <h3 align="center">Un Dev Apasionado en Argentina</h3>
 
 <ul>
-  <li>🔭 Actualmente trabajando en <b>El Ladrón Elegante</b> => <a href="https://www.patreon.com/c/elladronelegante" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/images.png" alt="krita" width="60" height="60"/></a></li>
-  <li>🌐 Todos mis juegos publicados en => <a href="https://milton93.itch.io/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/itchio-logo-white.png" alt="krita" width="60" height="60"/></a></li>
+  <li>🔭 Actualmente trabajando en <b>El Ladrón Elegante</b> <a href="https://www.patreon.com/c/elladronelegante" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/images.png" alt="krita" width="80" height="60"/></a></li>
+  <li>🌐 Todos mis juegos publicados en <a href="https://milton93.itch.io/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/itchio-logo-white.png" alt="krita" width="80" height="60"/></a></li>
   <li>🌱 Aprendizaje autodidacta y tecnicatura en programación, UTN Buenos Aires.</li>
   <li>👨‍💻 Todos mis proyectos en GitHub: <a href="https://github.com/MiltonCastro93?tab=repositories" target="_blank">MiltonCastro93</a></li>
   <li>💬 Me gusta hablar de videojuegos, series y películas.</li>
