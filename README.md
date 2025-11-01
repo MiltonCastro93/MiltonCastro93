@@ -31,7 +31,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 </p>
 
 <h2 align="left">Habilidades: </h2>
-<h6 align="left">👨‍💻 Certificados Extra:</h6>
+<h6 align="left">👨‍💻 Otros Certificados:</h6>
       <span>https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748</span><br>
       <span>https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992</span><br>
       <span>https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037</span><br>
