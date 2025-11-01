@@ -21,6 +21,8 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
   <li>📄 Conoce mi experiencia: <a href="https://github.com/MiltonCastro93/hello-world/blob/main/CV%20Milton%20Denis%20Castro.pdf" target="_blank">CV Milton Castro</a></li>
 </ul>
 
+<hr>
+
 <h3 align="left">💼 Experiencia y Proyectos Previos</h3>
 
 <h4>🎮 Proyecto Evento Núcleo (2019) – Unity</h4>
@@ -29,6 +31,15 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
   - Participé en el desarrollo de un videojuego para el evento “Núcleo” en Argentina utilizando Unity.<br>
   - Trabajé en el prototipo inicial de mecánicas y lógica de juego.<br>
   - El proyecto quedó en pausa ya que no pude asistir al evento, pero me permitió ampliar mis conocimientos en Unity y en flujo de prototipado rápido.<br>
+</p>
+
+<hr>
+
+<h3 align="left">🎓 Formación Académica y Técnica</h3>
+<p align="left">
+- 2015: Comencé la tecnicatura en <b>Game Designer</b> en la Universidad Nacional de José C. Paz (UNPAZ).<br>
+- Luego de 2 años, decidí enfocar mi formación en <b>programación aplicada a videojuegos</b>, completando cursos especializados en <b>Imagen Campus</b>.<br>
+- Esta combinación de conocimientos en diseño y programación me permitió desarrollar una perspectiva integral sobre la creación de videojuegos.
 </p>
 
 <hr>
@@ -80,7 +91,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <p align="left">
   <a href="https://www.reaper.fm/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" alt="reaper" width="60" height="60"/></a>
   <a href="https://www.image-line.com/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" alt="fl studio" width="60" height="60"/></a>
-    <a href="https://www.audacityteam.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" alt="audacity" width="140" height="180"/></a>
+  <a href="https://www.audacityteam.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" alt="audacity" width="140" height="140"/></a>
 </p>
 
 <h4>⚙️ Motores de Desarrollo</h4>
