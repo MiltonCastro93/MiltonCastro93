@@ -23,14 +23,22 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
+<!-- Cabecera con icono y texto -->
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-  <h3>Mis PlayLists</h3>
-  <ul>
     <img src="https://github.com/MiltonCastro93/hello-world/blob/main/youtubeIcon.png" alt="Youtube" width="80" height="80"/>
-    <li>Link en videos del Prototipo con Unity:<a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4" target="_blank"><b>El Ladrón Elegante</b></a></li>
-    <li>Link en videos en PlayLists: <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs" target="_blank"><b>Clic Aquí...</b></a></li>
-  </ul>
+    <h3>Mis Playlists</h3>
 </div>
+
+<!-- Lista de links -->
+<ul>
+    <li>Link en videos del Prototipo con Unity: 
+        <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4" target="_blank"><b>El Ladrón Elegante</b></a>
+    </li>
+    <li>Link en videos en PlayLists: 
+        <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs" target="_blank"><b>Clic Aquí...</b></a>
+    </li>
+</ul>
+<hr>
 
 <hr>
 
