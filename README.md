@@ -8,7 +8,8 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 
 <h3 align="center">Un Dev Apacionado en Argentina</h3>
 
-- 🔭 Estoy Trabajando en 💎 [Apoyame en Patreon](https://www.patreon.com/c/elladronelegante)
+- 🔭 Actualmente estoy trabajando en *El Ladrón Elegante*, un proyecto indie desarrollado en Unity.  
+💎 Podés apoyar su desarrollo o sumarte al equipo en [Patreon](https://www.patreon.com/c/elladronelegante)
 
 - 🌱 What I’ve learned about… I did thanks to the EducationIT coursers and certifications.
 
