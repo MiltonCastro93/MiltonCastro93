@@ -23,7 +23,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-| <img src="https://github.com/MiltonCastro93/hello-world/blob/main/youtubeIcon.png" width="80" height="80"/> | Mis Playlists |
+| <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" height="50"/> | Mis Playlists |
 |---|---|
 | [El Ladrón Elegante](https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4) | [Clic Aquí](https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs) |
 
