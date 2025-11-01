@@ -59,7 +59,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 <h4>🧱 Diseño 3D y Animación</h4>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="figma" width="60" height="60"/>
+    <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="figma" width="120" height="120"/>
   </a>
 
 <h4>⚙️ Motores de Desarrollo</h4>
