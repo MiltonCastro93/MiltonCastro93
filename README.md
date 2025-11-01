@@ -33,7 +33,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h4>🎮 Proyecto Evento Núcleo (2019) – Unity</h4>
 <p align="left">
-  Repositorio: <a href="https://bitbucket.org/_Milton-Programador/evento-nucleo-2019/src/master/" target="_blank">evento-nucleo-2019</a><br>
+  Repositorio: <a href="https://bitbucket.org/_Milton-Programador/evento-nucleo-2019/src/master/" target="_blank">Fantasy Adventure (2019) </a><br>
   - Participé en el desarrollo de un videojuego para el evento “Núcleo” en Argentina utilizando Unity.<br>
   - Trabajé en el prototipo inicial de mecánicas y lógica de juego.<br>
   - El proyecto quedó en pausa ya que no pude asistir al evento, pero me permitió ampliar mis conocimientos en Unity y en flujo de prototipado rápido.<br>
