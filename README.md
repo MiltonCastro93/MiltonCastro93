@@ -13,7 +13,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 
 - 🌱 Todo lo que he aprendido proviene de mi formación autodidacta y de la tecnicatura en programación de la UTN Buenos Aires (UTNBA).
 
-- 👨‍💻 All of my projects are available at [https://github.com/MiltonCastro93?tab=repositories](https://github.com/MiltonCastro93?tab=repositories)
+- 👨‍💻 Todos mis proyectos están disponibles en > [https://github.com/MiltonCastro93?tab=repositories](https://github.com/MiltonCastro93?tab=repositories)
 
 - 💬 I enjoy talking about video games, series, and movies.
 
