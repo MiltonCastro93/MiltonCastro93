@@ -41,13 +41,18 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
 
-<h3 align="left">Programas: </h3>
+<h3 align="left">Programas Usados: </h3>
+<h2 align="left">Diseño Artistico: </h2>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
 </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" alt="photoshop" width="60" height="60"/>
 </a>
+ <a href="https://krita.org/es/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" alt="unreal engine" width="60" height="60"/>
+</a>
+<h2 align="left">Motores de Desarrollo: </h2>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="120" height="120"/>
 </a>
@@ -57,9 +62,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
  <a href="https://git-fork.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="unreal engine" width="60" height="60"/>
 </a>
- <a href="https://krita.org/es/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" alt="unreal engine" width="60" height="60"/>
-</a>
+
 
 
 
