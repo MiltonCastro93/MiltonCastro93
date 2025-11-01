@@ -13,6 +13,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <ul>
   <li>🔭 Actualmente trabajando en <b>El Ladrón Elegante</b>. Podés apoyar o sumarte en <a href="https://www.patreon.com/c/elladronelegante" target="_blank">Patreon</a>.</li>
+  <li>🌐 Todos mis juegos publicados en <a href="https://milton93.itch.io/" target="_blank">Itch.io</a>.</li>
   <li>🌱 Aprendizaje autodidacta y tecnicatura en programación, UTN Buenos Aires.</li>
   <li>👨‍💻 Todos mis proyectos en GitHub: <a href="https://github.com/MiltonCastro93?tab=repositories" target="_blank">MiltonCastro93</a></li>
   <li>💬 Me gusta hablar de videojuegos, series y películas.</li>
