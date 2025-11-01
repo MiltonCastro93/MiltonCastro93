@@ -24,7 +24,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <hr>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-  <ul>Mis PlayLists</ul>
+  <ul><h3>Mis PlayLists</h3></ul>
     <img src="https://github.com/MiltonCastro93/hello-world/blob/main/youtubeIcon.png" alt="Youtube" width="80" height="80"/>
     
     
