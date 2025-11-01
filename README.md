@@ -75,45 +75,11 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-<h3>🧰 Herramientas y Programas Usados</h3>
-
-<h4>🎨 Diseño Artístico UI/HUD</h4>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" alt="photoshop" width="60" height="60"/></a>
-  <a href="https://krita.org/es/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" alt="krita" width="60" height="60"/></a>
-</p>
-
-<h4>🧱 Diseño 3D y Animación</h4>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="blender" width="140" height="140"/></a>
-</p>
-
-<h4>🎧 Producción y Edición de Audio</h4>
-<p align="left">
-  <a href="https://www.reaper.fm/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" alt="reaper" width="60" height="60"/></a>
-  <a href="https://www.image-line.com/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" alt="fl studio" width="60" height="60"/></a>
-  <a href="https://www.audacityteam.org/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" alt="audacity" width="140" height="140"/></a>
-</p>
-
-<h4>⚙️ Motores de Desarrollo</h4>
-<p align="left">
-  <a href="https://www.unrealengine.com/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" alt="unreal engine" width="80" height="80"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" alt="unity" width="120" height="120"/></a>
-</p>
-
-<h4>💾 Control de Versiones</h4>
-<p align="left">
-  <a href="https://git-fork.com/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="git-fork" width="60" height="60"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="60" height="60"/></a>
-</p>
-
 ## 🧰 Herramientas y Programas Usados
 
 | 🎨 **Diseño Artístico UI/HUD** | 🧱 **Diseño 3D y Animación** | 🎧 **Producción y Edición de Audio** | ⚙️ **Motores de Desarrollo** | 💾 **Control de Versiones** |
 |---|---|---|---|---|
-| [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="80" height="80"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="80" height="80"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
+| [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120" height="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="80" height="80"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
 
 <hr>
 
