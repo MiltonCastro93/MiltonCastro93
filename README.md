@@ -54,7 +54,9 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.svg" alt="unreal engine" width="40" height="40"/>
 </a>
- 
+ <a href="https://git-fork.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/file-icons/icons/blob/master/svg/Fork.svg" alt="unreal engine" width="40" height="40"/>
+</a>
 
 </p>
 
