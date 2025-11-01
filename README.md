@@ -11,7 +11,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 - 🔭 Actualmente estoy trabajando en *El Ladrón Elegante*, un proyecto indie desarrollado en Unity.  
 💎 Podés apoyar su desarrollo o sumarte al equipo en [Patreon](https://www.patreon.com/c/elladronelegante)
 
-- 🌱 What I’ve learned about… I did thanks to the EducationIT coursers and certifications.
+- 🌱 Todo lo que he aprendido proviene de mi formación autodidacta y de la tecnicatura en programación de la UTN Buenos Aires (UTNBA).
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiltonCastro93?tab=repositories](https://github.com/MiltonCastro93?tab=repositories)
 
