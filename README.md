@@ -59,8 +59,22 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 <h4>🧱 Diseño 3D y Animación</h4>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="figma" width="120" height="120"/>
+    <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" alt="blender" width="120" height="120"/>
   </a>
+</p>
+
+<h4>🎧 Producción y Edición de Audio</h4>
+<p align="left">
+  <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Audacity_Logo.svg" alt="audacity" width="60" height="60"/>
+  </a>
+  <a href="https://www.reaper.fm/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/REAPER_Logo.svg" alt="reaper" width="60" height="60"/>
+  </a>
+  <a href="https://www.image-line.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/4f/FL_Studio_Logo_2021.svg" alt="fl studio" width="60" height="60"/>
+  </a>
+</p>
 
 <h4>⚙️ Motores de Desarrollo</h4>
 <p align="left">
@@ -70,7 +84,10 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" alt="unreal engine" width="80" height="80"/>
   </a>
+</p>
+
 <h4>💾 Control de Versiones</h4>
+<p align="left">
   <a href="https://git-fork.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="git-fork" width="60" height="60"/>
   </a>
