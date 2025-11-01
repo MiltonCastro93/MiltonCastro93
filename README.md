@@ -15,7 +15,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
 
 - 👨‍💻 Todos mis proyectos están disponibles en > [https://github.com/MiltonCastro93?tab=repositories](https://github.com/MiltonCastro93?tab=repositories)
 
-- 💬 I enjoy talking about video games, series, and movies.
+- 💬 Me gusta hablar de videojuegos, series y películas.
 
 - 📫 How to reach me **miltondeniscastro.1993@gmail.com**
 
