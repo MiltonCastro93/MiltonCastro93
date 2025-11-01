@@ -52,7 +52,7 @@ Mi trayectoria no solo trata de dominar lenguajes o herramientas, sino de crecer
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="120" height="120"/>
 </a>
 <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" alt="unreal engine" width="60" height="60"/>
+  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" alt="unreal engine" width="80" height="80"/>
 </a>
  <a href="https://git-fork.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" alt="unreal engine" width="60" height="60"/>
