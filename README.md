@@ -158,13 +158,30 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" alt="YouTube Icon" width="100" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <span style="display:inline-block; vertical-align:top;">
-
-| :zap: Proyecto en desarrollo (Patreon) | :clapper: Playlists Generales [Unity & Unreal] |
-| :------------------------------------: | :-------------------------------------------: |
-| [**El Ladrón Elegante**](URL_DEL_PROYECTO) | [**Playlists General**](URL_DE_LAS_PLAYLISTS) |
-
-  </span>
-</p>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <img 
+        src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" 
+        alt="YouTube Icon" 
+        width="100" 
+      />
+    </td>
+    <td valign="middle" style="padding-left: 20px;">
+      <table cellspacing="0" cellpadding="5">
+        <tr>
+          <td align="center"> :zap: Proyecto en desarrollo (Patreon) </td>
+          <td align="center"> :clapper: Playlists Generales [Unity & Unreal] </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="URL_DEL_PROYECTO"><b>El Ladrón Elegante</b></a>
+          </td>
+          <td align="center">
+            <a href="URL_DE_LAS_PLAYLISTS"><b>Playlists General</b></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
