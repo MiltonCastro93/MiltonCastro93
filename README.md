@@ -45,8 +45,6 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <span style="font-size:24px; font-weight:bold; margin: 0 10px;">| 🚧 **Proyecto en desarrollo (Patreon)** | 🎥 **Playlists Generales [Unity & Unreal]** |</span>
 <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" style="vertical-align:middle;" />
 
-<br> **El Ladrón Elegante**](https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4) | [<img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" height="50"/> <br> **Playlists General [Unity & Unreal]**](https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs) |
-
 </div>
 
 
