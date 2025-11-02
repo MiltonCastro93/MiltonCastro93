@@ -29,25 +29,30 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 > 🔹 Del **lado derecho**: **Playlists generales** de desarrollo y pruebas en diferentes motores (*Unity, Unreal, etc.*)
 
 ---
-
-<table cellspacing="0" cellpadding="10" width="100%">
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="middle">
-      <p style="font-size: 1.1em; margin-bottom: 5px;">
-        :zap: **Proyecto en desarrollo (Patreon)**
-      </p>
-      <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4">
-        <b>El Ladrón Elegante</b>
-      </a>
+    <td valign="middle">
+      <img 
+        src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" 
+        alt="YouTube Icon" 
+        width="100" 
+      />
     </td>
-    <td align="center" valign="middle">
-      <p style="font-size: 1.1em; margin-bottom: 5px;">
-        :clapper: **Playlists Generales [Unity & Unreal]**
-      </p>
-      <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs">
-        <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="20" height="20" alt="YouTube Icon"/>
-        <b>Playlists General</b>
-      </a>
+    <td valign="middle" style="padding-left: 20px;">
+      <table cellspacing="0" cellpadding="5">
+        <tr>
+          <td align="center"> :zap: Proyecto en desarrollo (Patreon) </td>
+          <td align="center"> :clapper: Playlists Generales [Unity & Unreal] </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4"><b>El Ladrón Elegante</b></a>
+          </td>
+          <td align="center">
+            <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs"><b>Playlists General</b></a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
