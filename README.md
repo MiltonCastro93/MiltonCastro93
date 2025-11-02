@@ -23,14 +23,6 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" style="vertical-align:middle;" />
-<span style="font-size:24px; font-weight:bold; margin: 0 10px;">| 🚧 **Proyecto en desarrollo (Patreon)** | 🎥 **Playlists Generales [Unity & Unreal]** |</span>
-<img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" style="vertical-align:middle;" />
-
-</div>
-
 ## 🎬 Contenido y Desarrollo en Paralelo
 
 > 🔹 Del **lado izquierdo**: Proyecto **en desarrollo activo en Patreon**  
@@ -38,10 +30,33 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 ---
 
-| 🚧 **Proyecto en desarrollo (Patreon)** | 🎥 **Playlists Generales [Unity & Unreal]** |
-|----------------------------------------|---------------------------------------------|
-| <br> <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4" target="_blank">**El Ladrón Elegante**</a> | <br> <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs" target="_blank">Playlists General</a> |
-
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <img 
+        src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" 
+        alt="YouTube Icon" 
+        width="100" 
+      />
+    </td>
+    <td valign="middle" style="padding-left: 20px;">
+      <table cellspacing="0" cellpadding="5">
+        <tr>
+          <td align="center"> :zap: Proyecto en desarrollo (Patreon) </td>
+          <td align="center"> :clapper: Playlists Generales [Unity & Unreal] </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="URL_DEL_PROYECTO"><b>El Ladrón Elegante</b></a>
+          </td>
+          <td align="center">
+            <a href="URL_DE_LAS_PLAYLISTS"><b>Playlists General</b></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 ---
 
 > 💡 En el proyecto de Patreon (*El Ladrón Elegante*), desarrollo mecánicas, IA y sistemas completos desde cero.  
@@ -157,31 +172,3 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60" height="60"/>](https://dragonbones.github.io/en/animation.html) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120" height="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120" height="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
 
 <hr>
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle">
-      <img 
-        src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" 
-        alt="YouTube Icon" 
-        width="100" 
-      />
-    </td>
-    <td valign="middle" style="padding-left: 20px;">
-      <table cellspacing="0" cellpadding="5">
-        <tr>
-          <td align="center"> :zap: Proyecto en desarrollo (Patreon) </td>
-          <td align="center"> :clapper: Playlists Generales [Unity & Unreal] </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="URL_DEL_PROYECTO"><b>El Ladrón Elegante</b></a>
-          </td>
-          <td align="center">
-            <a href="URL_DE_LAS_PLAYLISTS"><b>Playlists General</b></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
