@@ -138,19 +138,6 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-<table align="center" style="border-collapse: collapse; text-align: center;">
-  <tr>
-    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; width: 200px;">
-      <h3>🎨 Diseño Artístico UI/HUD</h3>
-      <p><b>Herramientas:</b><br>Krita · Photoshop · Figma</p>
-    </td>
-    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; width: 200px;">
-      <h3>🦴 Animación 2D (Esquelética)</h3>
-      <p><b>Herramientas:</b><br>DragonBones</p>
-    </td>
-    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; width: 200px;">
-      <h3>🧊 Diseño 3D y Animación</h3>
-      <p><b>Herramientas:</b><br>Blender</p>
-    </td>
-  </tr>
-</table>
+| 🎨 **Diseño Artístico UI/HUD** | 🦴 **Animación 2D (Esquelética)** | 🧱 **Diseño 3D y Animación** | 🎧 **Producción y Edición de Audio** | ⚙️ **Motores de Desarrollo** | 💾 **Control de Versiones** |
+|---|---|---|---|---|---|
+| [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/DragonBones_logo.png" width="100" height="100"/>](https://dragonbones.com/en/index.html) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120" height="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120" height="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
