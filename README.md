@@ -87,7 +87,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
           </td>
           <td align="center">
             <a href="https://www.artstation.com/miltoncastro">
-              <img src="https://cdn.worldvectorlogo.com/logos/artstation.svg" width="40" height="40" alt="ArtStation"/>
+              <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logo-artstation-horizontal-aa3fb1d5023367e8cd6935164def00483b2a42825df9a69a8c6f5f462569c91a.png" width="40" height="40" alt="ArtStation"/>
             </a>
           </td>
         </tr>
