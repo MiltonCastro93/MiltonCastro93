@@ -40,7 +40,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 | 🚧 **Proyecto en desarrollo (Patreon)** | 🎥 **Playlists Generales [Unity & Unreal]** |
 |----------------------------------------|---------------------------------------------|
-| <br> **El Ladrón Elegante**](https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4) | <br> **Playlists General [Unity & Unreal]**](https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs) |
+| <br> <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4" target="_blank">**El Ladrón Elegante**</a> | <br> <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs" target="_blank">Playlists General</a> |
 
 ---
 
