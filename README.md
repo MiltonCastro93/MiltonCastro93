@@ -23,6 +23,14 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" style="vertical-align:middle;" />
+<span style="font-size:24px; font-weight:bold; margin: 0 10px;">| 🚧 **Proyecto en desarrollo (Patreon)** | 🎥 **Playlists Generales [Unity & Unreal]** |</span>
+<img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" style="vertical-align:middle;" />
+
+</div>
+
 ## 🎬 Contenido y Desarrollo en Paralelo
 
 > 🔹 Del **lado izquierdo**: Proyecto **en desarrollo activo en Patreon**  
@@ -38,16 +46,6 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 > 💡 En el proyecto de Patreon (*El Ladrón Elegante*), desarrollo mecánicas, IA y sistemas completos desde cero.  
 > Mientras que en los **playlists generales**, experimento con **ideas, sistemas y motores diferentes**, todo orientado al avance del desarrollo del juego.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" style="vertical-align:middle;" />
-<span style="font-size:24px; font-weight:bold; margin: 0 10px;">| 🚧 **Proyecto en desarrollo (Patreon)** | 🎥 **Playlists Generales [Unity & Unreal]** |</span>
-<img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="50" style="vertical-align:middle;" />
-
-</div>
-
-
 
 <hr>
 
