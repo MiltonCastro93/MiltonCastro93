@@ -48,6 +48,68 @@
 
 > 💡 En el proyecto de Patreon (*El Ladrón Elegante*), desarrollo mecánicas, IA y sistemas completos desde cero.  
 > Mientras que en los **playlists generales**, experimento con **ideas, sistemas y motores diferentes**, todo orientado al avance del desarrollo del juego.
+<hr>
+
+<table align="center">
+  <tr>
+    <td>
+      <table align="center" cellspacing="10" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
+        <tr>
+          <td colspan="6" align="center">
+            <h3>Mis Redes Sociales</h3>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://twitter.com/miltoncast10209">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.linkedin.com/in/milton-castro-23165a130/">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.facebook.com/milton.castro.9406">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.instagram.com/miltoncastro93/">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://discord.gg/milton2735">
+              <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.artstation.com/miltoncastro">
+              <img src="https://cdn.worldvectorlogo.com/logos/artstation.svg" width="40" height="40" alt="ArtStation"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://twitter.com/miltoncast10209">Twitter</a></td>
+          <td align="center"><a href="https://www.linkedin.com/in/milton-castro-23165a130/">LinkedIn</a></td>
+          <td align="center"><a href="https://www.facebook.com/milton.castro.9406">Facebook</a></td>
+          <td align="center"><a href="https://www.instagram.com/miltoncastro93/">Instagram</a></td>
+          <td align="center"><a href="https://discord.gg/milton2735">Discord</a></td>
+          <td align="center"><a href="https://www.artstation.com/miltoncastro">ArtStation</a></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <h3 align="center">📊 Estadísticas</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MiltonCastro93&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <hr>
 
