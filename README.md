@@ -179,12 +179,14 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h3 align="left">Habilidades y Certificados</h3>
 
+<h3 align="left">Habilidades y Certificados</h3>
+
 <table width="100%">
   <tr>
     <!-- Columna de Certificados -->
     <td width="50%" valign="top">
       <h3 align="left">👨‍💻 Certificados:</h3>
-      <p align="left" style="font-size:18px; line-height:1.6;">
+      <p align="left" style="font-size:18px; line-height:1.3;">
         <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">JavaScript</a><br>
         <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Desarrollo Web con HTML</a><br>
         <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Introducción a Bases de Datos y SQL</a>
@@ -193,15 +195,15 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
     <!-- Columna de Lenguajes -->
     <td width="50%" valign="top" align="right">
       <h3 align="right">💻 Lenguajes de Programación:</h3>
-      <p align="right">
+      <p align="right" style="margin:0;">
         <a href="https://www.w3schools.com/cpp/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100" style="margin-right:15px;"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80" style="margin-right:20px;"/>
         </a>
         <a href="https://www.w3schools.com/cs/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100" style="margin-right:15px;"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80" style="margin-right:20px;"/>
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
         </a>
       </p>
     </td>
