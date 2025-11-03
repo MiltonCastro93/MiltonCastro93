@@ -87,7 +87,7 @@
           </td>
           <td align="center">
             <a href="https://www.artstation.com/miltoncastro">
-              <img src="https://cdn.worldvectorlogo.com/logos/artstation.svg" width="40" height="40" alt="ArtStation"/>
+              <img src="https://github.com/MiltonCastro93/hello-world/blob/main/NUEVO%20ICONO.png" width="40" height="40" alt="ArtStation"/>
             </a>
           </td>
         </tr>
