@@ -154,11 +154,28 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <h3 align="left">Habilidades y Certificados</h3> <h4 align="left">
   👨‍💻 Certificados de: <img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="100" height="200"/></h4> 
 
-| Certificado | Ver Online | Descargar PDF |
-|:----------:|:----------:|:------------:|
-| JavaScript | [Ver Certificado](https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748) | [📄 Descargar](https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Javascript-desde-cero-Educaci%C3%B3nIT.pdf) |
-| Desarrollo Web con HTML | [Ver Certificado](https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992) | [📄 Descargar](https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Desarrollo-Web-con-HTML-Educaci%C3%B3nIT.pdf) |
-| Introducción a Bases de Datos y SQL | [Ver Certificado](https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037) | [📄 Descargar](https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Introducci%C3%B3n-a-Bases-de-Datos-y-SQL-Educaci%C3%B3nIT.pdf) |
+<table align="center" style="width: 80%; text-align: center;">
+  <tr>
+    <th>Certificado</th>
+    <th>Ver Online</th>
+    <th>Descargar PDF</th>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">Ver Certificado</a></td>
+    <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Javascript-desde-cero-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
+  </tr>
+  <tr>
+    <td>Desarrollo Web con HTML</td>
+    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Ver Certificado</a></td>
+    <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Desarrollo-Web-con-HTML-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
+  </tr>
+  <tr>
+    <td>Introducción a Bases de Datos y SQL</td>
+    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Ver Certificado</a></td>
+    <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Introducci%C3%B3n-a-Bases-de-Datos-y-SQL-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
+  </tr>
+</table>
 
 <h4 align="left">💻 Lenguajes de Programación:</h4>
 <p align="left">
