@@ -180,14 +180,13 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
   </tr>
 </table>
 
-#### 🎓 Formación Académica
+#### 🎓 Formación Académica de UTN BA
 <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos">
 <img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120" align="right"/>
 </a>
 
 <p>
-Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo de Videojuegos</strong> en UTNBA.  
-Aunque ya cuento con experiencia práctica en programación y desarrollo de juegos, estoy consolidando mis conocimientos académicos para poder recibirme y seguir creciendo profesionalmente.
+Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo de Videojuegos</strong> en UTNBA. Aunque ya cuento con experiencia práctica en programación y desarrollo de juegos, estoy consolidando mis conocimientos académicos para poder recibirme y seguir creciendo profesionalmente.
 </p>
 
 <hr>
