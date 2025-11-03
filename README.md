@@ -181,18 +181,10 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <hr>
 ### 👨‍💻 Habilidades y Certificados
 
-#### 🏆 Certificados de Educación IT
+#### 🏆 Certificados de <img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="120" align="right" />
 
 | Certificado | Enlace Online | Descargar PDF |
 |------------|---------------|---------------|
 | JavaScript | [Ver Certificado](https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748) | [📄 Descargar](https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Javascript-desde-cero-Educaci%C3%B3nIT.pdf) |
 | Desarrollo Web con HTML | [Ver Certificado](https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992) | [📄 Descargar](https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Desarrollo-Web-con-HTML-Educaci%C3%B3nIT.pdf) |
 | Introducción a Bases de Datos y SQL | [Ver Certificado](https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037) | [📄 Descargar](https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Introducci%C3%B3n-a-Bases-de-Datos-y-SQL-Educaci%C3%B3nIT.pdf) |
-
-<img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="120" align="right" />
-
-#### 💻 Lenguajes de Programación
-
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)  
-[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)  
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
