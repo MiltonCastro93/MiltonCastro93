@@ -156,7 +156,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <table align="center" style="width: 80%; text-align: center;">
   <tr>
-    <th>Certificado (typeof())</th>
+    <th title="Sí, esto es un chiste de JavaScript 😉">Certificado <code>typeof()</code></th>
     <th>Ver Online</th>
     <th>Descargar PDF</th>
   </tr>
