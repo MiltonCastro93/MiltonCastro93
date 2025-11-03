@@ -156,7 +156,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <table align="center" style="width: 80%; text-align: center;">
   <tr>
-    <th>Certificado</th>
+    <th>Certificado (typeof())</th>
     <th>Ver Online</th>
     <th>Descargar PDF</th>
   </tr>
