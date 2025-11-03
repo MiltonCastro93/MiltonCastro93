@@ -191,20 +191,24 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 
 <table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
   <tr style="background-color: #1e1e1e;">
-    <th>Certificado</th>
-    <th>Codigo</th>
+    <th>Certificado:</th>
+    <th>Fecha:</th>
+    <th>Codigo:</th>
     <th>Descargar PDF</th>
   </tr>
   <tr>
     <td><strong>Introducción a la Programación para Videojuegos (2018)</strong></td>
+    <td><strong>(01/01/2018) - (01/04/2018)</strong></td>
     <td><strong>IPJ-01N-18</strong></td>
   </tr>
   <tr>
     <td><strong>Desarrollo de Videojuegos con Unity 3D (2018)</strong></td>
+    <td><strong>(01/04/2018) - (01/08/2018)</strong></td>
     <td><strong>U3D-01N-18</strong></td>
   </tr>
   <tr>
-    <td><strong>Introducción al Dibujo Manga (09/04/2019) - (02/08/2019) </strong></td>
+    <td><strong>Introducción al Dibujo Manga </strong></td>
+    <td><strong>(09/04/2019) - (02/08/2019)</strong></td>
     <td><strong>MNG-01T-19</strong></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/blob/main/Milton%20Denis%20Castro%20-%20Cerificado%20MGN%202019.jpeg">📄 Descargar</a></td>
   </tr>
@@ -215,21 +219,25 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 <table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
   <tr style="background-color: #1e1e1e;">
     <th>Certificado</th>
+    <th>Fecha:</th>
     <th>Ver Online</th>
     <th>Descargar PDF</th>
     <tr>
-    <td><strong>Introducción a Bases de Datos y SQL (03/01/2024)</strong></td>
+    <td><strong>Introducción a Bases de Datos y SQL</strong></td>
+    <td><strong>(03/01/2024)</strong></td>
     <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">🌐 Ver</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Introducci%C3%B3n-a-Bases-de-Datos-y-SQL-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
   </tr>
     <tr>
-    <td><strong>Desarrollo Web con HTML (06/01/2024)</strong></td>
+    <td><strong>Desarrollo Web con HTML</strong></td>
+    <td><strong>(06/01/2024)</strong></td>
     <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">🌐 Ver</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Desarrollo-Web-con-HTML-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
   <tr>
-    <td><strong>JavaScript (11/01/2024)</strong></td>
+    <td><strong>JavaScript</strong></td>
+    <td><strong>(11/01/2024)</strong></td>
     <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">🌐 Ver</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Javascript-desde-cero-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
