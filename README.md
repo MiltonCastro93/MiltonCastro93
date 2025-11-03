@@ -180,9 +180,9 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <h3 align="left">Habilidades y Certificados</h3>
 
 <div style="border: 1px solid #333; padding: 20px; background-color: #1e1e1e;"> 
-<table width="100%" style="color: #ffffff;">
+<table width="200%" style="color: #ffffff;">
     <tr>
-      <td width="50%" valign="top" style="padding-right: 20px;">
+      <td width="100%" valign="top" style="padding-right: 20px;">
         <h4 align="left">👨‍💻 Certificados:</h4>
         <p align="left" style="line-height: 1.8;">
           <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank" style="color: #4da6ff; text-decoration: underline;">JavaScript</a><br>
@@ -191,7 +191,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
         </p>
       </td>
       <td style="border-left: 1px solid #333; padding: 0;"></td> 
-      <td width="50%" valign="top" align="center" style="padding-left: 20px;">
+      <td width="1000%" valign="top" align="center" style="padding-left: 20px;">
         <h4 align="left">💻 Lenguajes de Programación:</h4>
         <p align="center">
           <a href="https://www.w3schools.com/cpp/" target="_blank">
