@@ -153,74 +153,6 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 ### 👨‍💻 Habilidades y Certificados
 
-<table align="center" style="width: 80%; text-align: center; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
-  <tr>
-    <td>
-      <a href="https://www.educacionit.com/?srsltid=AfmBOorxn1As6MzJaDyHy59saxVuGDmbgvLD5g_hNi75S1gkITPq8_tn" target="_blank">
-        <img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="120"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos" target="_blank">
-        <img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-#### 🏆 Certificados de Educación IT
-
-<table align="center" style="width: 80%; text-align: center;">
-  <tr>
-    <th title="Sí, esto es un chiste de JavaScript 😉">Certificado <code>typeof()</code></th>
-    <th>Ver Online</th>
-    <th>Descargar PDF</th>
-  </tr>
-  <tr>
-    <td><strong>JavaScript</strong></td>
-    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">🌐 Ver Certificado</a></td>
-    <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Javascript-desde-cero-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
-  </tr>
-  <tr>
-    <td><strong>Desarrollo Web con HTML</strong></td>
-    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">🌐 Ver Certificado</a></td>
-    <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Desarrollo-Web-con-HTML-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
-  </tr>
-  <tr>
-    <td><strong>Introducción a Bases de Datos y SQL</strong></td>
-    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">🌐 Ver Certificado</a></td>
-    <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Introducci%C3%B3n-a-Bases-de-Datos-y-SQL-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
-  </tr>
-</table>
-
-#### 🎓 Formación Académica de UTN BA
-
-<p>
-Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo de Videojuegos</strong> en UTNBA. Aunque ya cuento con experiencia práctica en programación y desarrollo de juegos, estoy consolidando mis conocimientos académicos para poder recibirme y seguir creciendo profesionalmente.
-</p>
-
-<hr>
-
-<h4 align="left">💻 Lenguajes de Programación:</h4>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
-</p>
-
-<hr>
-
-## 🧰 Herramientas y Programas Usados
-
-| 🎨 **Diseño Artístico UI/HUD** | 🦴 **Animación 2D (Esquelética)** | 🧱 **Diseño 3D y Animación** | 🎧 **Producción y Edición de Audio** | ⚙️ **Motores de Desarrollo** | 💾 **Control de Versiones** |
-|---|---|---|---|---|---|
-| [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60" height="60"/>](https://dragonbones.github.io/en/animation.html) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120" height="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120" height="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
-
-<hr>
-
-
-### 👨‍💻 Habilidades y Certificados
-
 #### 🏫 Dónde estudié
 
 <table align="center" style="width: 80%; text-align: center; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
@@ -284,3 +216,22 @@ Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo
 Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo de Videojuegos</strong> en UTNBA.  
 Aunque ya cuento con experiencia práctica en programación y desarrollo de juegos, estoy consolidando mis conocimientos académicos para poder recibirme y seguir creciendo profesionalmente.
 </p>
+
+<hr>
+
+<h4 align="left">💻 Lenguajes de Programación:</h4>
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
+</p>
+
+<hr>
+
+## 🧰 Herramientas y Programas Usados
+
+| 🎨 **Diseño Artístico UI/HUD** | 🦴 **Animación 2D (Esquelética)** | 🧱 **Diseño 3D y Animación** | 🎧 **Producción y Edición de Audio** | ⚙️ **Motores de Desarrollo** | 💾 **Control de Versiones** |
+|---|---|---|---|---|---|
+| [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60" height="60"/>](https://dragonbones.github.io/en/animation.html) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120" height="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120" height="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
+
+<hr>
