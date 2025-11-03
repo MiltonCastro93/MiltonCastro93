@@ -235,7 +235,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 ## 🧰 Herramientas y Programas
 
 <p align="center">
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/>]
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/>
   <a href="https://www.photoshop.com/en"><img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60"/>
   <a href="https://krita.org/es/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60"/>
   <a href="https://dragonbones.github.io/en/animation.html"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60"/>
