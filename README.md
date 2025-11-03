@@ -177,6 +177,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
+<div align=center>
 <table width="100%">
   <tr>
     <td align="left">
@@ -187,3 +188,4 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
     </td>
   </tr>
 </table>
+</div>
