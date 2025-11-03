@@ -83,7 +83,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <h3 align="left">🎓 Formación Académica y Técnica</h3>
 
 <p align="left" style="max-width: 800px; margin: auto;">
-Desde mis inicios en 2015, he orientado mi formación hacia el desarrollo y la producción de videojuegos. Comencé estudiando <b>Game Design</b> en la <b>Universidad Nacional de José C. Paz (UNPAZ)</b>, para luego especializarme en <b>programación aplicada a videojuegos</b> en <b>Imagen Campus</b>. Actualmente, curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos</b> en <b>UTN Buenos Aires</b>.
+Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Comencé en <b>Game Design</b> en la <b>Universidad Nacional de José C. Paz (UNPAZ)</b>, y luego me enfoqué en <b>Programación</b> a través de cursos en <b>Imagen Campus</b>. Actualmente curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos</b> en la <b>UTN Buenos Aires</b>, buscando un título que respalde mis conocimientos, aunque ya cuento con una base sólida en la disciplina.
 </p>
 
 <div align="center">
