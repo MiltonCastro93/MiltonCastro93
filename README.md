@@ -179,30 +179,32 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h3 align="left">Habilidades y Certificados</h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="left">👨‍💻 Certificados:</h4>
-      <p align="left">
-      <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">JavaScript</a><br>
-        <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Desarrollo Web con HTML</a><br>
-        <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Introducción a Bases de Datos y SQL</a>
-      </p>
-      <br><br><br><br>
-    </td>
-    <td width="50%" valign="top" align="right">
-      <h4 align="left">💻 Lenguajes de Programación:</h4>
-      <p align="right">
-        <a href="https://www.w3schools.com/cpp/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-        </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="border: 1px solid #333; padding: 20px; background-color: #1e1e1e;"> 
+<table width="100%" style="color: #ffffff;">
+    <tr>
+      <td width="50%" valign="top" style="padding-right: 20px;">
+        <h4 align="left">👨‍💻 Certificados:</h4>
+        <p align="left" style="line-height: 1.8;">
+          <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank" style="color: #4da6ff; text-decoration: underline;">JavaScript</a><br>
+          <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank" style="color: #4da6ff; text-decoration: underline;">Desarrollo Web con HTML</a><br>
+          <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank" style="color: #4da6ff; text-decoration: underline;">Introducción a Bases de Datos y SQL</a>
+        </p>
+      </td>
+      <td style="border-left: 1px solid #333; padding: 0;"></td> 
+      <td width="50%" valign="top" align="center" style="padding-left: 20px;">
+        <h4 align="left">💻 Lenguajes de Programación:</h4>
+        <p align="center">
+          <a href="https://www.w3schools.com/cpp/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80" style="margin-right: 15px;"/> 
+          </a>
+          <a href="https://www.w3schools.com/cs/" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80" style="margin-right: 15px;"/>
+          </a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
