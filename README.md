@@ -192,19 +192,20 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 <table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
   <tr style="background-color: #1e1e1e;">
     <th>Certificado</th>
+    <th>Codigo</th>
     <th>Descargar PDF</th>
   </tr>
   <tr>
     <td><strong>Introducción a la Programación para Videojuegos (2018)</strong></td>
-    <td><strong>Codigo: IPJ-01N-18</strong></td>
+    <td><strong>IPJ-01N-18</strong></td>
   </tr>
   <tr>
     <td><strong>Desarrollo de Videojuegos con Unity 3D (2018)</strong></td>
-    <td><strong>Codigo: U3D-01N-18</strong></td>
+    <td><strong>U3D-01N-18</strong></td>
   </tr>
   <tr>
     <td><strong>Introducción al Dibujo Manga (09/04/2019) - (02/08/2019) </strong></td>
-    <td><strong>Codigo: MNG-01T-19</strong></td>
+    <td><strong>MNG-01T-19</strong></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/blob/main/Milton%20Denis%20Castro%20-%20Cerificado%20MGN%202019.jpeg">📄 Descargar</a></td>
   </tr>
 </table>
