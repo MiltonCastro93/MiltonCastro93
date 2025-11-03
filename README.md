@@ -158,8 +158,8 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <table align="center" style="width: 80%; text-align: center; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
   <tr>
     <td>
-      <a href="https://www.imagen-campus.com.ar" target="_blank">
-        <img src="https://github.com/MiltonCastro93/hello-world/blob/main/ImagenCampus.png" width="120"/>
+      <a href="https://www.imagecampus.edu.ar/" target="_blank">
+        <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logoimagecampus.jpg" width="120"/>
       </a>
       <p><strong>Imagen Campus</strong><br><em>En proceso de obtención</em></p>
     </td>
