@@ -180,8 +180,6 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
   </tr>
 </table>
 
----
-
 #### 🎓 Formación Académica
 <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos">
 <img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120" align="right"/>
