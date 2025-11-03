@@ -153,7 +153,8 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 ### 👨‍💻 Habilidades y Certificados
 
-#### 🏆 Certificados de Educación IT <img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="120" align="right"/>
+#### 🏆 Certificados de Educación IT
+<img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="120" align="right"/>
 
 <table align="center" style="width: 80%; text-align: center;">
   <tr>
@@ -162,25 +163,28 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
     <th>Descargar PDF</th>
   </tr>
   <tr>
-    <td><code>JavaScript</code></td>
-    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">Ver Certificado</a></td>
+    <td><strong>JavaScript</strong></td>
+    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">🌐 Ver Certificado</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Javascript-desde-cero-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
   <tr>
-    <td><code>Desarrollo Web con HTML</code></td>
-    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Ver Certificado</a></td>
+    <td><strong>Desarrollo Web con HTML</strong></td>
+    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">🌐 Ver Certificado</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Desarrollo-Web-con-HTML-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
   <tr>
-    <td><code>Introducción a Bases de Datos y SQL</code></td>
-    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Ver Certificado</a></td>
+    <td><strong>Introducción a Bases de Datos y SQL</strong></td>
+    <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">🌐 Ver Certificado</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Introducci%C3%B3n-a-Bases-de-Datos-y-SQL-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
 </table>
 
-<hr>
+---
 
-#### 🎓 Formación Académica <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120" align="left"/>
+#### 🎓 Formación Académica
+<a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos">
+<img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120" align="left"/>
+</a>
 
 <p>
 Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo de Videojuegos</strong> en UTNBA.  
