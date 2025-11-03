@@ -235,15 +235,16 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 ## 🧰 Herramientas y Programas
 
 <p align="center">
-  [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/>](https://www.figma.com/) 
-  [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60"/>](https://www.photoshop.com/en) 
-  [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60"/>](https://krita.org/es/) 
-  [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60"/>](https://dragonbones.github.io/en/animation.html) 
-  [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="60"/>](https://www.blender.org/) 
-  [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60"/>](https://www.reaper.fm/) 
-  [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="60"/>](https://www.unrealengine.com/) 
-  [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="60"/>](https://unity.com/) 
-  [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60"/>](https://git-fork.com/)
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/>]
+  <a href="https://www.photoshop.com/en"><img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60"/>
+  <a href="https://krita.org/es/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60"/>
+  <a href="https://dragonbones.github.io/en/animation.html"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60"/>
+  <a href="https://www.blender.org/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="60"/>
+  <a href="https://www.reaper.fm/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60"/>
+  <a href="https://www.unrealengine.com/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="60"/>
+  <a href="https://unity.com/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="60"/>
+  <a href="https://git-fork.com/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60"/>
+    
 </p>
 
 | Área | Rol | Programa |
