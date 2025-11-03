@@ -226,14 +226,6 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 
 ## 🧰 Herramientas y Programas
 
-| 🎨 UI/UX | 🦴 Animación 2D | 🧱 Diseño 3D | 🎧 Audio | ⚙️ Motores | 💾 Versiones |
-|---|---|---|---|---|---|
-| [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60"/>](https://dragonbones.github.io/en/animation.html) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"/>](https://github.com/) |
-
-<hr>
-
-## 🧰 Herramientas y Programas
-
 <p align="center">
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/></a>
   <a href="https://www.photoshop.com/en"><img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60"/></a>
@@ -258,3 +250,5 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 | 💾 Control de versiones | Gestión de código y versiones | Git, Fork, GitHub |
 
 </div>
+
+<hr>
