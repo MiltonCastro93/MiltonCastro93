@@ -161,17 +161,17 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
     <th>Descargar PDF</th>
   </tr>
   <tr>
-    <td>JavaScript</td>
+    <td><code>JavaScript</code></td>
     <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">Ver Certificado</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Javascript-desde-cero-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
   <tr>
-    <td>Desarrollo Web con HTML</td>
+    <td><code>Desarrollo Web con HTML</code></td>
     <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Ver Certificado</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Desarrollo-Web-con-HTML-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
   <tr>
-    <td>Introducción a Bases de Datos y SQL</td>
+    <td><code>Introducción a Bases de Datos y SQL</code></td>
     <td><a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Ver Certificado</a></td>
     <td><a href="https://github.com/MiltonCastro93/hello-world/raw/main/Certificado-Introducci%C3%B3n-a-Bases-de-Datos-y-SQL-Educaci%C3%B3nIT.pdf">📄 Descargar</a></td>
   </tr>
