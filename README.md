@@ -177,7 +177,13 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-<div>
-  <p align=left><h4 align="left">👨‍💻 Certificados:</h4></p>
-  <p align=right><h4 align="left">💻 Lenguajes de Programación:</h4></p>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h4>👨‍💻 Certificados:</h4>
+    </td>
+    <td align="right">
+      <h4>💻 Lenguajes de Programación:</h4>
+    </td>
+  </tr>
+</table>
