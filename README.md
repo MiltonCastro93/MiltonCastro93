@@ -181,8 +181,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-#### 🎓 Formación Académica
-<img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120" align="right"/>
+#### 🎓 Formación Académica <img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120" align="left"/>
 
 <p>
 Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo de Videojuegos</strong> en UTNBA.  
