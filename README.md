@@ -244,9 +244,9 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
   <a href="https://www.unrealengine.com/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="60"/>
   <a href="https://unity.com/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="60"/>
   <a href="https://git-fork.com/"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60"/>
-    
 </p>
-
+    
+<p align="center>
 | Área | Rol | Programa |
 |------|-----|----------|
 | 🎨 UI/UX | Diseño de interfaces y mockups | Figma, Photoshop, Krita |
@@ -255,3 +255,4 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 | 🎧 Audio | Producción, mezcla y edición de sonido | Reaper, FL Studio, Audacity |
 | ⚙️ Motores | Desarrollo de videojuegos | Unity, Unreal Engine |
 | 💾 Control de versiones | Gestión de código y versiones | Git, Fork, GitHub |
+</p>
