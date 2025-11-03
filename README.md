@@ -178,10 +178,8 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <hr>
 
 <div align="center">
-<p align="left">
   <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">JavaScript</a><br>
   <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Desarrollo Web con HTML</a><br>
   <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Introducción a Bases de Datos y SQL</a>
-</p>
 
 </div>
