@@ -83,7 +83,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 <h3 align="left">🎓 Formación Académica y Técnica</h3>
 
 <p align="left" style="max-width: 800px; margin: auto;">
-Desde mis inicios en 2015, he orientado mi formación hacia el desarrollo y la producción de videojuegos. Comencé estudiando <b>Game Design</b> en la <b>Universidad Nacional de José C. Paz (UNPAZ)</b>, para luego especializarme en <b>programación aplicada a videojuegos</b> en <b>Imagen Campus</b>. Actualmente, curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos</b> en <b>UTN Buenos Aires</b>, y complemento mi perfil con certificaciones en <b>Educación IT</b> en desarrollo web y bases de datos.
+Desde mis inicios en 2015, he orientado mi formación hacia el desarrollo y la producción de videojuegos. Comencé estudiando <b>Game Design</b> en la <b>Universidad Nacional de José C. Paz (UNPAZ)</b>, para luego especializarme en <b>programación aplicada a videojuegos</b> en <b>Imagen Campus</b>. Actualmente, curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos</b> en <b>UTN Buenos Aires</b>.
 </p>
 
 <div align="center">
@@ -93,19 +93,16 @@ Desde mis inicios en 2015, he orientado mi formación hacia el desarrollo y la p
         <a href="https://www.imagecampus.edu.ar/" target="_blank">
           <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logoimagecampus.jpg" width="120"/>
         </a>
-        <p><strong>Imagen Campus</strong><br><em>Programación</em></p>
       </td>
       <td>
         <a href="https://www.educacionit.com/" target="_blank">
           <img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="120"/>
         </a>
-        <p><strong>Educación IT</strong><br><em>Desarrollo Web y SQL</em></p>
       </td>
       <td>
         <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos" target="_blank">
           <img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120"/>
         </a>
-        <p><strong>UTN Buenos Aires</strong><br><em>Cursando actualmente</em></p>
       </td>
     </tr>
   </table>
