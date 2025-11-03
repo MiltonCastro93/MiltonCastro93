@@ -153,8 +153,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 ### 👨‍💻 Habilidades y Certificados
 
-#### 🏆 Certificados de Educación IT
-<img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="120" align="right"/>
+#### 🏆 Certificados de Educación IT <img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="120" align="right"/>
 
 <table align="center" style="width: 80%; text-align: center;">
   <tr>
@@ -181,7 +180,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-#### 🎓 Formación Académica <img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120" align="left"/>
+#### 🎓 Formación Académica <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120" align="left"/>
 
 <p>
 Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo de Videojuegos</strong> en UTNBA.  
