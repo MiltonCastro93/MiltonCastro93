@@ -176,3 +176,33 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60" height="60"/>](https://dragonbones.github.io/en/animation.html) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120" height="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120" height="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
 
 <hr>
+
+<h3 align="left">Habilidades y Certificados</h3>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">👨‍💻 Certificados:</h4>
+      <p align="left">
+      <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">JavaScript</a><br>
+        <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Desarrollo Web con HTML</a><br>
+        <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Introducción a Bases de Datos y SQL</a>
+      </p>
+      <br><br><br><br>
+    </td>
+    <td width="50%" valign="top" align="right">
+      <h4 align="left">💻 Lenguajes de Programación:</h4>
+      <p align="right">
+        <a href="https://www.w3schools.com/cpp/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+        </a>
+        <a href="https://www.w3schools.com/cs/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
