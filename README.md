@@ -155,9 +155,10 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h4 align="left">👨‍💻 Certificados de: <img src="https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg" width="100" height="200"/></h4>
 <p align="left">
-  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">JavaScript</a><br>
-  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Desarrollo Web con HTML</a><br>
-  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Introducción a Bases de Datos y SQL</a>
+  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">Certificado Online de: JavaScript</a><br>
+  [Descargar PDF](https://github.com/MiltonCastro93/hello-world/blob/main/Certificado-Javascript-desde-cero-Educaci%C3%B3nIT.pdf)
+  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Certificado Online de: Desarrollo Web con HTML</a><br>
+  <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/69037" target="_blank">Certificado Online de: Introducción a Bases de Datos y SQL</a>
 </p>
 
 <h4 align="left">💻 Lenguajes de Programación:</h4>
