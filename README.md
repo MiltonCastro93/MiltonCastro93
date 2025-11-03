@@ -217,6 +217,8 @@ Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo
 | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60" height="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60" height="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60" height="60"/>](https://dragonbones.github.io/en/animation.html) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120" height="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60" height="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60" height="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120" height="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70" height="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90" height="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60" height="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60"/>](https://github.com/) |
 
 <hr>
+
+
 ### 👨‍💻 Habilidades y Certificados
 
 #### 🏫 Dónde estudié
@@ -227,7 +229,7 @@ Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo
       <a href="https://www.imagen-campus.com.ar" target="_blank">
         <img src="https://github.com/MiltonCastro93/hello-world/blob/main/ImagenCampus.png" width="120"/>
       </a>
-      <p><strong>Imagen Campus</strong></p>
+      <p><strong>Imagen Campus</strong><br><em>En proceso de obtención</em></p>
     </td>
     <td>
       <a href="https://www.educacionit.com/?srsltid=AfmBOorxn1As6MzJaDyHy59saxVuGDmbgvLD5g_hNi75S1gkITPq8_tn" target="_blank">
@@ -239,7 +241,7 @@ Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo
       <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos" target="_blank">
         <img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120"/>
       </a>
-      <p><strong>UTNBA</strong> (Cursando actualmente)</p>
+      <p><strong>UTNBA</strong> <br><em>Cursando actualmente</em></p>
     </td>
   </tr>
 </table>
@@ -248,8 +250,8 @@ Actualmente cursando el último cuatrimestre de la carrera de <strong>Desarrollo
 
 #### 🏆 Certificados
 
-<!-- Imagen Campus: Perdidos -->
-<p><strong>Imagen Campus:</strong> Certificados perdidos</p>
+<!-- Imagen Campus -->
+<p><strong>Imagen Campus:</strong> En proceso de obtención</p>
 
 <!-- Educación IT -->
 <p><strong>Educación IT:</strong></p>
