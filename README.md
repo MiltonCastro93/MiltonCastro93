@@ -244,16 +244,20 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 </table>
 
 <p><strong>UTN BA:</strong></p>
-<p><strong>Info Tecnicatura:</strong></p><a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos">Clic Aqui!</a>
+<p><strong>Info Tecnicatura:</strong> <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos" target="_blank">Clic Aquí!</a></p>
+
 <table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
   <tr style="background-color: #1e1e1e;">
     <th>Certificado</th>
-    <th>Fecha:</th>
+    <th>Fecha</th>
     <th>Ver Online</th>
     <th>Descargar PDF</th>
-    <tr>
-    <td><strong>Tecnicatura Universitaria en Desarrollo y Produccion de Videojuegos</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Tecnicatura Universitaria en Desarrollo y Producción de Videojuegos</strong></td>
     <td><strong>En Curso</strong></td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </table>
 
