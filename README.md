@@ -161,7 +161,6 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
       <a href="https://www.imagecampus.edu.ar/" target="_blank">
         <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logoimagecampus.jpg" width="120"/>
       </a>
-      <p><strong>Imagen Campus</strong><br><em>En proceso de obtención</em></p>
     </td>
     <td>
       <a href="https://www.educacionit.com/?srsltid=AfmBOorxn1As6MzJaDyHy59saxVuGDmbgvLD5g_hNi75S1gkITPq8_tn" target="_blank">
