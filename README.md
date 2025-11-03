@@ -153,7 +153,7 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h3 align="left">Habilidades y Certificados</h3>
 
-<h4 align="left">👨‍💻 Certificados:</h4>
+<h4 align="left">👨‍💻 Certificados de: <img>https://github.com/MiltonCastro93/hello-world/blob/main/EducacionIT.svg</img></h4>
 <p align="left">
   <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68748" target="_blank">JavaScript</a><br>
   <a href="https://www.educacionit.com/perfil/milton-castro-964339/certificado/68992" target="_blank">Desarrollo Web con HTML</a><br>
