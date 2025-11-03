@@ -104,3 +104,54 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 | 🎨 UI/UX | 🦴 Animación 2D | 🧱 Diseño 3D | 🎧 Audio | ⚙️ Motores | 💾 Versiones |
 |---|---|---|---|---|---|
 | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/>](https://www.figma.com/) [<img src="https://github.com/MiltonCastro93/MiltonCastro93/assets/159483393/8b14a5c6-a00c-482c-8de2-216035196b96" width="60"/>](https://www.photoshop.com/en) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Calligrakrita-base.svg.png" width="60"/>](https://krita.org/es/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Dragon.png" width="60"/>](https://dragonbones.github.io/en/animation.html) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo_Blender.svg.png" width="120"/>](https://www.blender.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/descarga.png" width="60"/>](https://www.reaper.fm/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/nav-logo-fruit.41db863.png" width="60"/>](https://www.image-line.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Audacity_Logo_2-2-0.png" width="120"/>](https://www.audacityteam.org/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="70"/>](https://www.unrealengine.com/) [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="90"/>](https://unity.com/) | [<img src="https://github.com/MiltonCastro93/hello-world/blob/main/FORKICON.png" width="60"/>](https://git-fork.com/) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"/>](https://github.com/) |
+
+<hr>
+
+<h3 align="left">💼 Experiencia y Proyectos</h3>
+
+<h4>🎮 Proyecto Evento Núcleo (2019) – Unity</h4>
+<p>
+  Repositorio: <a href="https://bitbucket.org/_Milton-Programador/evento-nucleo-2019/src/master/" target="_blank">Fantasy Adventure (2019)</a><br>
+  Participé en el desarrollo de un prototipo para el evento “Núcleo” en Unity, trabajando en mecánicas y lógica de juego. 
+  El proyecto quedó en pausa, pero fortaleció mi experiencia en prototipado rápido.
+</p>
+
+<hr>
+
+<h3 align="left">🚀 Proyectos Destacados</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/FugaDeLaCorona">
+        <img src="URL_DE_IMAGEN1" width="150" style="border-radius:10px"/>
+        <p><b>Fuga de la Corona</b><br><sub>Sigilo / Supervivencia</sub></p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/LaberintoMagico2D">
+        <img src="URL_DE_IMAGEN2" width="150" style="border-radius:10px"/>
+        <p><b>Laberinto Mágico 2D</b><br><sub>Proyecto académico</sub></p>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h3 align="left">🎬 Demos y Presentaciones</h3>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Demo Video" width="400" style="border-radius:10px"/>
+  </a>
+</p>
+<p align="center"><sub>Haz clic en la imagen para ver la demo completa en YouTube.</sub></p>
+
+<hr>
+
+<h3 align="left">🧑‍💻 Freelance</h3>
+<ul>
+  <li>Desarrollo de mecánicas y sistemas de juego para proyectos indie.</li>
+  <li>Diseño de UI/HUD y animaciones 2D/3D.</li>
+  <li>Producción y edición de audio para videojuegos.</li>
+</ul>
