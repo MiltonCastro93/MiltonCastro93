@@ -80,12 +80,10 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <hr>
 
-<h3 align="center">🎓 Formación Académica y Técnica</h3>
+<h3 align="left">🎓 Formación Académica y Técnica</h3>
 
-<p align="center" style="max-width: 800px; margin: auto;">
-Desde mis inicios en 2015, he orientado mi formación hacia el desarrollo y la producción de videojuegos.  
-Comencé estudiando <b>Game Design</b> en la <b>Universidad Nacional de José C. Paz (UNPAZ)</b>, para luego especializarme en <b>programación aplicada a videojuegos</b> en <b>Imagen Campus</b>.  
-Actualmente, curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos</b> en <b>UTN Buenos Aires</b>, y complemento mi perfil con certificaciones en <b>Educación IT</b> en desarrollo web y bases de datos.
+<p align="left" style="max-width: 800px; margin: auto;">
+Desde mis inicios en 2015, he orientado mi formación hacia el desarrollo y la producción de videojuegos. Comencé estudiando <b>Game Design</b> en la <b>Universidad Nacional de José C. Paz (UNPAZ)</b>, para luego especializarme en <b>programación aplicada a videojuegos</b> en <b>Imagen Campus</b>. Actualmente, curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos</b> en <b>UTN Buenos Aires</b>, y complemento mi perfil con certificaciones en <b>Educación IT</b> en desarrollo web y bases de datos.
 </p>
 
 <div align="center">
@@ -95,7 +93,7 @@ Actualmente, curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos<
         <a href="https://www.imagecampus.edu.ar/" target="_blank">
           <img src="https://github.com/MiltonCastro93/hello-world/blob/main/logoimagecampus.jpg" width="120"/>
         </a>
-        <p><strong>Imagen Campus</strong><br><em>Programación y Game Design</em></p>
+        <p><strong>Imagen Campus</strong><br><em>Programación</em></p>
       </td>
       <td>
         <a href="https://www.educacionit.com/" target="_blank">
@@ -119,6 +117,7 @@ Actualmente, curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos<
 
 #### 🏆 Certificados
 
+<p align="center"><em>Imagen Campus: certificados en proceso.</em></p>
 <p><strong>Educación IT:</strong></p>
 
 <table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
@@ -144,7 +143,7 @@ Actualmente, curso la <b>Tecnicatura en Desarrollo y Producción de Videojuegos<
   </tr>
 </table>
 
-<p align="center"><em>Imagen Campus y UTNBA: certificados en proceso y cursada activa.</em></p>
+<p align="center"><em>UTN BA: Cursada activa.</em></p>
 
 <hr>
 
