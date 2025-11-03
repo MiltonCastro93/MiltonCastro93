@@ -179,8 +179,6 @@ Actualmente, formo parte del proyecto indie <b>“El Ladrón Elegante”</b>, un
 
 <h3 align="left">Habilidades y Certificados</h3>
 
-<h3 align="left">Habilidades y Certificados</h3>
-
 <table width="100%">
   <tr>
     <!-- Columna de Certificados -->
