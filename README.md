@@ -19,8 +19,34 @@
 </ul>
 
 <hr>
+## 🎬 Contenido y Desarrollo en Paralelo
 
-## 🎬 Contenido y Desarrollo en Paralelo > 🔹 Del **lado izquierdo**: Proyecto **en desarrollo activo en Patreon** > 🔹 Del **lado derecho**: **Playlists generales** de desarrollo y pruebas en diferentes motores (*Unity, Unreal, etc.*) --- <div align="center"> <table cellspacing="0" cellpadding="0"> <tr> <td valign="middle"> <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" alt="YouTube Icon" width="100" /> </td> <td valign="middle" style="padding-left: 20px;"> <table cellspacing="0" cellpadding="5"> <tr> <td align="center"> :zap: Proyecto en desarrollo (Patreon) </td> <td align="center"> :clapper: Playlists Generales [Unity & Unreal] </td> </tr> <tr> <td align="center"> <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4"><b>El Ladrón Elegante</b></a> </td> <td align="center"> <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs"><b>Playlists General</b></a> </td> </tr> </table> </td> </tr> </table> </div> --- > 💡 En el proyecto de Patreon (*El Ladrón Elegante*), desarrollo mecánicas, IA y sistemas completos desde cero. > Mientras que en los **playlists generales**, experimento con **ideas, sistemas y motores diferentes**, todo orientado al avance del desarrollo del juego. <hr>
+> 🔹 Del **lado izquierdo**: Proyecto **en desarrollo activo en Patreon**  
+> 🔹 Del **lado derecho**: **Playlists generales** de desarrollo y pruebas en diferentes motores (*Unity, Unreal, etc.*)
+
+---
+
+<div align="center">
+
+<table cellspacing="0" cellpadding="10">
+  <tr>
+    <td valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" alt="YouTube Icon" width="100" /><br>
+      :zap: <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4"><b>El Ladrón Elegante</b></a>
+    </td>
+    <td valign="middle" align="center" style="padding-left: 20px;">
+      <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" alt="YouTube Icon" width="100" /><br>
+      :clapper: <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agygP9c1HJVgVCeQTpsa6tFs"><b>Playlists General</b></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+> 💡 En el proyecto de Patreon (*El Ladrón Elegante*), desarrollo mecánicas, IA y sistemas completos desde cero.  
+> Mientras que en los **playlists generales**, experimento con **ideas, sistemas y motores diferentes**, todo orientado al avance del desarrollo del juego.
 
 <hr>
 
