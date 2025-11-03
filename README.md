@@ -175,7 +175,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
         </a>
       </td>
       <td>
-        <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos" target="_blank">
+        <a href="https://sceu.frba.utn.edu.ar/e-learning/" target="_blank">
           <img src="https://github.com/MiltonCastro93/hello-world/blob/main/UTNBA.png" width="120"/>
         </a>
       </td>
@@ -243,7 +243,20 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
   </tr>
 </table>
 
-<p><strong>UTN BA: Cursada activa.</strong></p>
+<p><strong>UTN BA:</strong></p>
+<p><strong>Info Tecnicatura:</strong></p><a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos">Clic Aqui!</a>
+<table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
+  <tr style="background-color: #1e1e1e;">
+    <th>Certificado</th>
+    <th>Fecha:</th>
+    <th>Ver Online</th>
+    <th>Descargar PDF</th>
+    <tr>
+    <td><strong>Tecnicatura Universitaria en Desarrollo y Produccion de Videojuegos</strong></td>
+    <td><strong>En Curso</strong></td>
+  </tr>
+</table>
+
 
 <h4 align="left">💻 Lenguajes de Programación:</h4>
 <p align="left">
