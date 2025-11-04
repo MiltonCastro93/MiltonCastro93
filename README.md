@@ -147,11 +147,12 @@
 
 <h3 align="left">🧑‍💻 Freelance</h3>
 <ul>
-  <li>Desarrollo de mecánicas y sistemas de juego para proyectos indie.</li>
-  <li>Diseño de UI/HUD y animaciones 2D/3D.</li>
-  <li>Producción y edición de audio para videojuegos.</li>
+  <li>Desarrollo y programación de mecánicas y sistemas de juego para proyectos indie.</li>
+  <li>Asesoramiento y depuración de código, así como optimización de la lógica de mecánicas.</li>
+  <li>Diseño e implementación de interfaces (UI/HUD) y animaciones 2D/3D.</li>
+  <li>Producción, edición y mezcla de audio para videojuegos.</li>
+  <li>Diseño de niveles y planificación arquitectónica de entornos.</li>
 </ul>
-
 
 <hr>
 
