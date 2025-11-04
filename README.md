@@ -117,7 +117,7 @@
 
 <h4>🎮 Proyecto Evento Núcleo (2019) – Unity</h4>
 <p>
-  Repositorio: <a href="https://bitbucket.org/_Milton-Programador/evento-nucleo-2019/src/master/" target="_blank">Fantasy Adventure (2019)</a><br>
+  Repositorio: <a href="https://bitbucket.org/_Milton-Programador/evento-nucleo-2019/src/master/" target="_blank">Fantasy Adventure</a><br>
   Participé en el desarrollo de un prototipo para el evento “Núcleo” en Unity, trabajando en mecánicas y lógica de juego. 
   El proyecto quedó en pausa, pero fortaleció mi experiencia en prototipado rápido.
 </p>
