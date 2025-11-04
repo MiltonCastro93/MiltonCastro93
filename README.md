@@ -154,6 +154,10 @@
   <li>Diseño de niveles y planificación arquitectónica de entornos.</li>
 </ul>
 
+<p align="left" style="max-width: 800px; margin: auto;">
+Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para tener una solida organizacion.
+</p>
+
 <table align="center">
   <tr>
     <td align="center">
