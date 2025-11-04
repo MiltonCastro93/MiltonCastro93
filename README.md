@@ -304,45 +304,51 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 
 <h3 align="center">🧠 Nivel de Conocimientos y Habilidades</h3>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse; text-align: left;">
   <tr>
     <th align="left">Categoría</th>
     <th align="left">Habilidades</th>
     <th align="center">Nivel</th>
   </tr>
+
   <tr>
     <td><b>🎮 Motores de Juego</b></td>
     <td>Unity · Unreal Engine</td>
     <td align="center">🔹 Semi-Senior</td>
   </tr>
+
   <tr>
     <td><b>💻 Programación</b></td>
     <td>C# · C++ · JavaScript</td>
     <td align="center">🔹 Semi-Senior</td>
   </tr>
+
   <tr>
     <td><b>🎨 Arte y Diseño</b></td>
     <td>Blender · Krita · Photoshop · Figma · DragonBones</td>
-    <td align="center">🔸 Intermedio</td>
+    <td align="center">🟠 Intermedio</td>
   </tr>
+
   <tr>
     <td><b>🎧 Audio y Producción</b></td>
     <td>Reaper · FL Studio · Audacity · Diseño Sonoro</td>
     <td align="center">🔹 Semi-Senior</td>
   </tr>
+
   <tr>
     <td><b>🌐 Web y Bases de Datos</b></td>
     <td>HTML · JavaScript · SQL</td>
     <td align="center">🟠 Intermedio</td>
   </tr>
+
   <tr>
     <td><b>📚 Experiencia y Formación</b></td>
-    <td>Imagen Campus · UTN BA · Proyectos en GitHub & Itch.io · Patreon Dev Logs</td>
+    <td>Imagen Campus · UTN BA · GitHub · Itch.io · Patreon Dev Logs</td>
     <td align="center">🔹 Semi-Senior</td>
   </tr>
 </table>
 
 <p align="center">
-  <i>💬 Más de 15 años de experiencia en desarrollo independiente y prototipado de videojuegos.<br>
-  Enfocado en diseño sonoro, programación, gameplay systems y dirección técnica de proyectos Unity/Unreal.</i>
+  <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos.<br>
+  Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
 </p>
