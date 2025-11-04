@@ -145,7 +145,7 @@
 
 <hr>
 
-<h3 align="left">🧑‍💻 Freelance</h3>
+<h3 align="left">🧑‍💻 Freelance hice roles como: </h3>
 <ul>
   <li>Desarrollo y programación de mecánicas y sistemas de juego para proyectos indie.</li>
   <li>Asesoramiento y depuración de código, así como optimización de la lógica de mecánicas.</li>
