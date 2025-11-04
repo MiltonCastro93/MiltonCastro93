@@ -302,10 +302,12 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 
 <hr>
 
+<hr style="border: 1px solid #555; width: 80%; margin: 40px auto; border-radius: 5px;">
+
 <h3 align="center">🧠 Nivel de Conocimientos y Habilidades</h3>
 
-<table align="center" width="100%" style="border-collapse: collapse; text-align: left;">
-  <tr>
+<table align="center" width="100%" style="border-collapse: collapse; text-align: left; font-size: 15px;">
+  <tr style="border-bottom: 1px solid #444;">
     <th align="left">Categoría</th>
     <th align="left">Habilidades</th>
     <th align="center">Nivel</th>
@@ -352,3 +354,5 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
   <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos.<br>
   Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
 </p>
+
+<hr style="border: 1px solid #555; width: 80%; margin: 40px auto; border-radius: 5px;">
