@@ -198,13 +198,13 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
     <th>Descargar PDF</th>
   </tr>
   <tr>
-    <td><strong>Introducción a la Programación para Videojuegos (2018)</strong></td>
+    <td><strong>Introducción a la Programación para Videojuegos</strong></td>
     <td><strong>(01/01/2018) - (01/04/2018)</strong></td>
     <td><strong>IPJ-01N-18</strong></td>
     <td>-</td>
   </tr>
   <tr>
-    <td><strong>Desarrollo de Videojuegos con Unity 3D (2018)</strong></td>
+    <td><strong>Desarrollo de Videojuegos con Unity 3D</strong></td>
     <td><strong>(01/04/2018) - (01/08/2018)</strong></td>
     <td><strong>U3D-01N-18</strong></td>
     <td>-</td>
