@@ -159,7 +159,7 @@
     <td align="center">
       <a href="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA">
         <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="150" style="border-radius:10px"/>
-        <p><b>CODE: AA</b><br><sub>Tactico y Shooter</sub></p>
+        <p><b>CODE: AA</b><br><sub>Tactico / Shooter</sub></p>
       </a>
     </td>
 </table>
