@@ -300,11 +300,9 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 
 </div>
 
-<hr>
-
 <hr style="border: 1px solid #555; width: 80%; margin: 40px auto; border-radius: 5px;">
 
-<h3 align="center">🧠 Nivel de Conocimientos y Habilidades</h3>
+<h3 align="center" style="color:#3efcb3;">🧠 Nivel de Conocimientos y Habilidades</h3>
 
 <table align="center" width="100%" style="border-collapse: collapse; text-align: left; font-size: 15px;">
   <tr style="border-bottom: 1px solid #444;">
