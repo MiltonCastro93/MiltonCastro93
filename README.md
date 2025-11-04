@@ -351,8 +351,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 </table>
 
 <p align="left">
-  <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos.<br>
-  Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
+  <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos. Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
 </p>
 
 <hr style="border: 1px solid #555; width: 80%; margin: 40px auto; border-radius: 5px;">
