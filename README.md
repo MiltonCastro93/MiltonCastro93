@@ -154,6 +154,17 @@
   <li>Diseño de niveles y planificación arquitectónica de entornos.</li>
 </ul>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA">
+        <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="150" style="border-radius:10px"/>
+        <p><b>Zombie Extraccion</b><br><sub>Tactico y Shooter</sub></p>
+      </a>
+    </td>
+</table>
+
+
 <hr>
 
 <h3 align="left">🎓 Formación Académica y Técnica</h3>
