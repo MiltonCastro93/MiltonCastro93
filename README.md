@@ -187,7 +187,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 
 <h3 align="left">👨‍💻 Habilidades y Certificados</h3>
 
-<p><strong>Imagen Campus:</strong></p>
+<p><strong> * Imagen Campus:</strong></p>
 
 <table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
   <tr style="background-color: #1e1e1e;">
@@ -200,11 +200,13 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
     <td><strong>Introducción a la Programación para Videojuegos (2018)</strong></td>
     <td><strong>(01/01/2018) - (01/04/2018)</strong></td>
     <td><strong>IPJ-01N-18</strong></td>
+    <td>-</td>
   </tr>
   <tr>
     <td><strong>Desarrollo de Videojuegos con Unity 3D (2018)</strong></td>
     <td><strong>(01/04/2018) - (01/08/2018)</strong></td>
     <td><strong>U3D-01N-18</strong></td>
+    <td>-</td>
   </tr>
   <tr>
     <td><strong>Introducción al Dibujo Manga </strong></td>
@@ -215,7 +217,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 </table>
 
 
-<p><strong>Educación IT:</strong></p>
+<p><strong> * Educación IT:</strong></p>
 <table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
   <tr style="background-color: #1e1e1e;">
     <th>Certificado</th>
@@ -243,7 +245,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
   </tr>
 </table>
 
-<p><strong>UTN BA:</strong></p>
+<p><strong> * UTN BA:</strong></p>
 <p><strong>Info Tecnicatura:</strong> <a href="https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3401/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos" target="_blank">Clic Aquí!</a></p>
 
 <table align="center" style="width: 80%; text-align: center; border-collapse: collapse;">
