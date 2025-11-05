@@ -2,7 +2,14 @@
 
 <p align="center"><b>Desarrollador de videojuegos y programador independiente</b></p>
 
-<p>Soy Milton, desarrollador de videojuegos desde 2006, con experiencia en Unity y Unreal Engine. He trabajado en proyectos individuales y colaborativos, además de ofrecer tutorías y servicios freelance. Actualmente participo en <b>“El Ladrón Elegante”</b>, un juego indie con estética anime desarrollado en Unity.</p>
+<p>
+Soy <b>Milton</b>, desarrollador de videojuegos desde <b>2006</b>, con una trayectoria que abarca desde motores clásicos 2D hasta entornos profesionales 3D.  
+Comencé utilizando <b>RPG Maker</b> (entre 2006 y 2015), aprendiendo los fundamentos del diseño narrativo y la lógica de eventos.  
+Más adelante trabajé con <b>Game Maker</b> y <b>Construct</b>, reforzando mi experiencia en <b>prototipado y programación visual</b>.  
+Desde <b>2017</b>, me especializo en <b>Unity</b> y <b>Unreal Engine</b>, enfocándome en scripting, integración audiovisual y diseño técnico de gameplay.  
+He participado en <b>proyectos individuales y colaborativos</b>, además de ofrecer <b>servicios freelance</b> y <b>tutorías</b> en desarrollo interactivo.  
+Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un juego indie con estética anime desarrollado en <b>Unity</b>.
+</p>
 
 <hr>
 
