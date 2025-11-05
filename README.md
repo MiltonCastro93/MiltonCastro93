@@ -230,15 +230,15 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
   </tr>
   <tr>
     <td><strong>Introducción a la Programación para Videojuegos</strong></td>
-    <td><strong>(01/01/2018) - (01/04/2018)</strong></td>
+    <td><strong>(05/04/2018 - 02/08/2018)</strong></td>
     <td><strong>IPJ-01N-18</strong></td>
-    <td>-</td>
+    <td><a href="https://github.com/MiltonCastro93/hello-world/blob/main/Milton%20Castro_IPJ_.pdf">📄 Descargar</a></td>
   </tr>
   <tr>
     <td><strong>Desarrollo de Videojuegos con Unity 3D</strong></td>
-    <td><strong>(01/04/2018) - (01/08/2018)</strong></td>
+    <td><strong>(17/08/2018 - 07/12/2018)</strong></td>
     <td><strong>U3D-01N-18</strong></td>
-    <td>-</td>
+    <td><a href="https://github.com/MiltonCastro93/hello-world/blob/main/Milton%20Castro%20U3D.pdf">📄 Descargar</a></td>
   </tr>
   <tr>
     <td><strong>Introducción al Dibujo Manga </strong></td>
