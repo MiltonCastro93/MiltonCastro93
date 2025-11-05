@@ -16,6 +16,10 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
   <b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)
 </p>
 
+<p align="left"><h4 align="right">🚀 Evolución de Motores y Herramientas</h4>
+  <b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)
+</p>
+
 <hr>
 
 <h3 align="center">Un Dev Apasionado en Argentina</h3>
