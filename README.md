@@ -10,6 +10,18 @@ Desde <b>2017</b>, me especializo en <b>Unity</b> y <b>Unreal Engine</b>, enfoc�
 He participado en <b>proyectos individuales y colaborativos</b>, además de ofrecer <b>servicios freelance</b> y <b>tutorías</b> en desarrollo interactivo.  
 Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un juego indie con estética anime desarrollado en <b>Unity</b>.
 </p>
+<h4 align="center">🚀 Evolución de Motores y Herramientas</h4>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/RPG_Maker_MV_Logo.png" width="70" alt="RPG Maker"/>
+  &nbsp;➡️&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/GameMaker_Studio_2_Logo.png" width="70" alt="Game Maker"/>
+  &nbsp;➡️&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Construct_Logo.png" width="70" alt="Construct"/>
+  &nbsp;➡️&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="60" alt="Unity"/>
+  &nbsp;&amp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.svg" width="60" alt="Unreal Engine"/>
+</p>
 
 <hr>
 
