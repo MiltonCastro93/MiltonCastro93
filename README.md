@@ -290,8 +290,8 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
   <tr>
     <td><strong>Tecnicatura Universitaria en Desarrollo y Producción de Videojuegos</strong></td>
     <td><strong>En Curso</strong></td>
-    <td>-</td>
-    <td>-</td>
+    <td>(2024)</td>
+    <td>(2026)</td>
   </tr>
 </table>
 
