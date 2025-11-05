@@ -10,17 +10,10 @@ Desde <b>2017</b>, me especializo en <b>Unity</b> y <b>Unreal Engine</b>, enfoc�
 He participado en <b>proyectos individuales y colaborativos</b>, además de ofrecer <b>servicios freelance</b> y <b>tutorías</b> en desarrollo interactivo.  
 Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un juego indie con estética anime desarrollado en <b>Unity</b>.
 </p>
+
 <h4 align="center">🚀 Evolución de Motores y Herramientas</h4>
-<p align="center" style="margin-top: 10px;">
-  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/RPG-Maker.png" width="65" alt="RPG Maker"/>
-  <span style="font-size: 22px;">➡️</span>
-  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/game%20maker.webp" width="65" alt="Game Maker"/>
-  <span style="font-size: 22px;">➡️</span>
-  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/contruct.png" width="65" alt="Construct"/>
-  <span style="font-size: 22px;">➡️</span>
-  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Unitylogowhite.png" width="60" alt="Unity"/>
-  <span style="font-size: 22px;">&amp;</span>
-  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/Logo-Unreal.png" width="60" alt="Unreal Engine"/>
+<p align="center">
+  <b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)
 </p>
 
 <hr>
