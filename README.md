@@ -11,16 +11,8 @@ He participado en <b>proyectos individuales y colaborativos</b>, además de ofre
 Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un juego indie con estética anime desarrollado en <b>Unity</b>.
 </p>
 
-<h4 align="center">🚀 Evolución de Motores y Herramientas</h4>
-<p align="center">
-  <b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)
-</p>
 
-<h4 align="left">🚀 Evolución de Motores y Herramientas <p align="right">
-  <b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)
-</p>
-
-</h4>
+<h4 align="left">🚀 Evolución de Motores y Herramientas <p align="center"><b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)</p></h4>
 
 <hr>
 
