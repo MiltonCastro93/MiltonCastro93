@@ -143,7 +143,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
     </td>
     <td align="center">
       <a href="https://github.com/MiltonCastro93/Zombie_Survival">
-        <img src="https://github.com/MiltonCastro93/Zombie_Survival/blob/main/Captura%20de%20pantalla%202025-11-03%20170427.png" width="150" style="border-radius:10px"/>
+        <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/Captura%20de%20pantalla%202025-11-05%20111857.png" width="150" style="border-radius:10px"/>
         <p><b>Zombie Survival</b><br><sub> Supervivencia / Oleadas de Enemigo</sub></p>
       </a>
     </td>
