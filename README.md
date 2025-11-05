@@ -284,14 +284,16 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
   <tr style="background-color: #1e1e1e;">
     <th>Certificado</th>
     <th>Fecha</th>
+    <th>N° Legajo</th>
     <th>Ver Online</th>
     <th>Descargar PDF</th>
   </tr>
   <tr>
     <td><strong>Tecnicatura Universitaria en Desarrollo y Producción de Videojuegos</strong></td>
-    <td><strong>En Curso</strong></td>
-    <td>(2024)</td>
-    <td>(2026)</td>
+    <td><strong>(05/08/2024 - 01/12/2026)</strong></td>
+    <td>2316365</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </table>
 
