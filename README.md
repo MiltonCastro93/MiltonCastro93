@@ -317,7 +317,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 ## 🧰 Herramientas y Programas
 
 <p align="center">
-  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/iconos.png" width="60"/></a>
+  <img src="https://github.com/MiltonCastro93/hello-world/blob/main/iconos.png" width="1024"/></a>
 </p>
 
 <div align="center">
