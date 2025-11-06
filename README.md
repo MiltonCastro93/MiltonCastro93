@@ -24,8 +24,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
   <li>🌱 Formación: Aprendizaje autodidacta y Tecnicatura en Programación, UTN Buenos Aires.</li>
   <li>👨‍💻 Proyectos en GitHub: <a href="https://github.com/MiltonCastro93?tab=repositories" target="_blank">MiltonCastro93</a></li>
   <li>💬 Intereses: Videojuegos, series y películas.</li>
-  <li>📫 Contacto: miltondeniscastro.1993@gmail.com </li>
-  > 📧 **Contacto profesional:** [miltoncastro.dev@gmail.com](mailto:miltoncastro.dev@gmail.com)
+  <li>📫 Contacto profecional: <b>miltondeniscastro.1993@gmail.com </b></li>
   <li>📄 CV: <a href="https://github.com/MiltonCastro93/hello-world/blob/main/CV%20Milton%20Denis%20Castro.pdf" target="_blank">Ver experiencia</a></li>
 </ul>
 
