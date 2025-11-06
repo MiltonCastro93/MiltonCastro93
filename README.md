@@ -25,7 +25,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
   <li>👨‍💻 Proyectos en GitHub: <a href="https://github.com/MiltonCastro93?tab=repositories" target="_blank">MiltonCastro93</a></li>
   <li>💬 Intereses: Videojuegos, series y películas.</li>
   <li>📫 Contacto: <b>miltondeniscastro.1993@gmail.com </b></li>
-  <li>📄 CV: <a href="https://github.com/MiltonCastro93/hello-world/blob/main/CV%20Milton%20Denis%20Castro.pdf" target="_blank">Ver experiencia</a></li>
+  <li>📄 Descargar CV: <a href="" target="_blank"> Clic Aqui! </a></li>
 </ul>
 
 <hr>
