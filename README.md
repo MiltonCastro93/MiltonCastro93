@@ -171,7 +171,7 @@ Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para ten
 
 <table align="center">
   <tr>
-    <td align="left">
+    <td align="center">
       <a href="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA">
         <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="150" style="border-radius:10px"/>
         <p><b>CODE: AA</b><br><sub>Táctico / Shooter</sub></p>
@@ -183,11 +183,10 @@ Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para ten
         <p><b>CODE: AB</b><br><sub>Táctico / Shooter de Tanques</sub></p>
       </a>
     </td>
-  </tr>
-      <td align="right">
+    <td align="center">
       <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/tree/main">
         <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/icon.png" width="150" style="border-radius:10px"/>
-        <p><b>CODE: AB</b><br><sub>Supervivencia Oleadas / Camara Isometrica</sub></p>
+        <p><b>CODE: AC</b><br><sub>Supervivencia / Cámara Isométrica</sub></p>
       </a>
     </td>
   </tr>
