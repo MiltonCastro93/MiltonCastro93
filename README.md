@@ -172,29 +172,48 @@ Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para ten
 
 <table align="center">
   <tr>
+    <!-- CODE: AA -->
     <td align="center">
       <a href="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA">
         <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="150" style="border-radius:10px"/>
-        <p><b>CODE: AA</b><br><sub>Táctico / Shooter</sub></p>
+        <p>
+          <b>CODE: AA</b><br>
+          <b>Nombre:</b> Proyecto Shooter<br>
+          <sub>Táctico / Shooter</sub>
+        </p>
       </a>
     </td>
+    <!-- CODE: AB -->
     <td align="center">
       <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB">
         <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/Captura%20de%20pantalla%202025-11-05%20111857.png" width="150" style="border-radius:10px"/>
-        <p><b>CODE: AB</b><br><sub>Táctico / Shooter de Tanques</sub></p>
+        <p>
+          <b>CODE: AB</b><br>
+          <b>Nombre:</b> Tanks Combat <br>
+          <sub>Táctico / Shooter de Tanques</sub>
+        </p>
       </a>
     </td>
+    <!-- CODE: AC -->
     <td align="center">
       <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/tree/main">
         <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/icon.png" width="150" style="border-radius:10px"/>
-        <p><b>CODE: AC</b><br><sub>Supervivencia / Cámara Isométrica</sub></p>
+        <p>
+          <b>CODE: AC</b><br>
+          <b>Nombre:</b> Small Toys<br>
+          <sub>Supervivencia / Cámara Isométrica</sub>
+        </p>
       </a>
     </td>
-  </tr>
-      <td align="center">
-      <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD"> <b>Dead Frequency</b>
+    <!-- CODE: AD -->
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD">
         <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD/blob/main/imagen2.png" width="150" style="border-radius:10px"/>
-        <p><b>CODE: AC</b><br><sub>Sigilo / Hackeo</sub></p>
+        <p>
+          <b>CODE: AD</b><br>
+          <b>Nombre:</b> Dead Frequency<br>
+          <sub>Sigilo / Hackeo</sub>
+        </p>
       </a>
     </td>
   </tr>
