@@ -21,7 +21,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 <ul>
   <li>🔭 Actualmente trabajando en <b>El Ladrón Elegante</b> <a href="https://www.patreon.com/c/elladronelegante" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/images.png" alt="Patreon" width="80" height="60"/></a></li>
   <li>🌐 Juegos publicados: <a href="https://milton93.itch.io/" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/itchio-logo-white.png" alt="Itch.io" width="80" height="60"/></a></li>
-  <li>🌱 Formación: Aprendizaje autodidacta, Cursos Online y una Tecnicatura en Desarrollo y Produccion de VideoJuegos, UTN Buenos Aires.</li>
+  <li>🌱 <b>Formación:</b> Aprendizaje autodidacta, cursos online y Tecnicatura en Desarrollo y Producción de Videojuegos (UTN Buenos Aires).</li>
   <li>👨‍💻 Proyectos en GitHub: <a href="https://github.com/MiltonCastro93?tab=repositories" target="_blank">MiltonCastro93</a></li>
   <li>📫 <b>Contacto:</b> <a href="mailto:miltondeniscastro.1993@gmail.com"><b>miltondeniscastro.1993@gmail.com</b></a></li>
   <li>📄 Descargar CV: <a href="" target="_blank"> Clic Aqui! </a></li>
