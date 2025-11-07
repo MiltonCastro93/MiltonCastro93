@@ -178,7 +178,7 @@ Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para ten
         <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="150" style="border-radius:10px"/>
         <p>
           <b>CODE: AA</b><br>
-          <b>Nombre:</b> Proyecto Shooter<br>
+          <b>Proyecto Shooter</b><br>
           <sub>Táctico / Shooter</sub>
         </p>
       </a>
@@ -189,7 +189,7 @@ Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para ten
         <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/Captura%20de%20pantalla%202025-11-05%20111857.png" width="150" style="border-radius:10px"/>
         <p>
           <b>CODE: AB</b><br>
-          <b>Nombre:</b> Tanks Combat <br>
+          <b>Tanks Combat</b><br>
           <sub>Táctico / Shooter de Tanques</sub>
         </p>
       </a>
@@ -200,7 +200,7 @@ Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para ten
         <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/icon.png" width="150" style="border-radius:10px"/>
         <p>
           <b>CODE: AC</b><br>
-          <b>Nombre:</b> Small Toys<br>
+          <b>Small Toys</b><br>
           <sub>Supervivencia / Cámara Isométrica</sub>
         </p>
       </a>
@@ -211,7 +211,7 @@ Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para ten
         <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD/blob/main/imagen2.png" width="150" style="border-radius:10px"/>
         <p>
           <b>CODE: AD</b><br>
-          <b>Nombre:</b> Dead Frequency<br>
+          <b>Dead Frequency</b><br>
           <sub>Sigilo / Hackeo</sub>
         </p>
       </a>
