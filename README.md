@@ -192,7 +192,7 @@ Mis Proyectos como Freelance de Libre publicacion, con su Año y Codigo para ten
     </td>
   </tr>
       <td align="center">
-      <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD">
+      <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD"> <b>Dead Frequency</b>
         <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD/blob/main/imagen2.png" width="150" style="border-radius:10px"/>
         <p><b>CODE: AC</b><br><sub>Sigilo / Hackeo</sub></p>
       </a>
