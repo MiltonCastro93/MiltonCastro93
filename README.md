@@ -2,8 +2,6 @@
 
 <p align="center"><b>Desarrollador de videojuegos y programador independiente</b></p>
 
-![Visitas](https://api.countapi.xyz/hit/https://github.com/MiltonCastro93/visits)
-
 <p>
 Soy <b>Milton</b>, desarrollador de videojuegos desde <b>2006</b>, con una trayectoria que abarca desde motores clásicos 2D hasta entornos profesionales 3D.  
 Comencé utilizando <b>RPG Maker</b> (entre 2006 y 2015), aprendiendo los fundamentos del diseño narrativo y la lógica de eventos.  
