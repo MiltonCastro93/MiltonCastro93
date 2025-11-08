@@ -164,6 +164,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
   <li>Diseño e implementación de interfaces (UI/HUD) y animaciones 2D/3D.</li>
   <li>Producción, edición y mezcla de audio para videojuegos.</li>
   <li>Diseño de niveles y planificación arquitectónica de entornos.</li>
+  <li>Repositorios de mis Tutorias: <a href="https://github.com/MiltonCastro93/Tutoria-01"> Clic Aqui!</a></li>
 </ul>
 
 <p align="left" style="max-width: 800px; margin: auto;">
