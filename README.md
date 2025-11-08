@@ -408,3 +408,71 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 </table>
 
 <hr>
+
+<h3 align="left">🧑‍💻 Experiencia Freelance</h3>
+
+<p align="left" style="max-width: 800px; margin: auto;">
+He trabajado en proyectos indie desempeñando roles de desarrollo, diseño y producción, con evidencias públicas de mi trabajo.
+</p>
+
+<ul>
+  <li>Desarrollo y programación de mecánicas y sistemas de juego.</li>
+  <li>Asesoramiento y depuración de código, optimización de la lógica de mecánicas.</li>
+  <li>Diseño e implementación de interfaces (UI/HUD) y animaciones 2D/3D.</li>
+  <li>Producción, edición y mezcla de audio para videojuegos.</li>
+  <li>Diseño de niveles y planificación arquitectónica de entornos.</li>
+  <li>Repositorios de mis tutorías: <a href="https://github.com/MiltonCastro93/Tutoria-01" target="_blank">Clic Aquí</a></li>
+</ul>
+
+<p align="left" style="max-width: 800px; margin: auto;">
+Proyectos Freelance de libre publicación, organizados por año y código para mayor claridad.
+</p>
+
+<table align="center">
+  <tr>
+    <!-- CODE: AA -->
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA" target="_blank">
+        <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="150" style="border-radius:10px" alt="Proyecto Shooter"/>
+        <p>
+          <b>CODE: AA</b><br>
+          <b>Proyecto Shooter</b><br>
+          <sub>Táctico / Shooter</sub>
+        </p>
+      </a>
+    </td>
+    <!-- CODE: AB -->
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB" target="_blank">
+        <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/Captura%20de%20pantalla%202025-11-05%20111857.png" width="150" style="border-radius:10px" alt="Tanks Combat"/>
+        <p>
+          <b>CODE: AB</b><br>
+          <b>Tanks Combat</b><br>
+          <sub>Táctico / Shooter de Tanques</sub>
+        </p>
+      </a>
+    </td>
+    <!-- CODE: AC -->
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC" target="_blank">
+        <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/icon.png" width="150" style="border-radius:10px" alt="Small Toys"/>
+        <p>
+          <b>CODE: AC</b><br>
+          <b>Small Toys</b><br>
+          <sub>Supervivencia / Cámara Isométrica</sub>
+        </p>
+      </a>
+    </td>
+    <!-- CODE: AD -->
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD" target="_blank">
+        <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD/blob/main/imagen2.png" width="150" style="border-radius:10px" alt="Dead Frequency"/>
+        <p>
+          <b>CODE: AD</b><br>
+          <b>Dead Frequency</b><br>
+          <sub>Sigilo / Hackeo</sub>
+        </p>
+      </a>
+    </td>
+  </tr>
+</table>
