@@ -153,6 +153,13 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
       </a>
     </td>
   </tr>
+      <td align="center">
+      <a href="https://github.com/MiltonCastro93/Fuga_de_la_Corona">
+        <img src="https://github.com/MiltonCastro93/Fuga_de_la_Corona/blob/main/Icon.png" width="150" style="border-radius:10px"/>
+        <p><b>Fuga de la Corona</b><br><sub>Sigilo / Aventura / Supervivencia</sub></p>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <hr>
