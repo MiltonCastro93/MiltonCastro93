@@ -162,6 +162,29 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Zombie_Extraccion">
+        <img src="https://github.com/MiltonCastro93/Zombie_Extraccion/blob/main/nuevoicon.png" width="150" style="border-radius:10px"/>
+        <p><b>Zombie Extraccion</b><br><sub>Supervivencia / Terror Clásico</sub></p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Zombie_Survival">
+        <img src="https://github.com/MiltonCastro93/Zombie_Survival/blob/main/Captura%20de%20pantalla%202025-11-03%20170427.png" width="150" style="border-radius:10px"/>
+        <p><b>Zombie Survival</b><br><sub>Supervivencia / Oleadas de Enemigos</sub></p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MiltonCastro93/Fuga_de_la_Corona">
+        <img src="https://github.com/MiltonCastro93/Fuga_de_la_Corona/blob/main/Icon.png" width="150" style="border-radius:10px"/>
+        <p><b>Fuga de la Corona</b><br><sub>Sigilo / Aventura / Supervivencia</sub></p>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <h3 align="left">🧑‍💻 Experiencia Freelance</h3>
