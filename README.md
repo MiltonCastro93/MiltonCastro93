@@ -35,9 +35,8 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 > 🔹 Prototipos viejos Hecho con Unreal (2020): <a href="https://github.com/MiltonCastro93/hello-world/releases/tag/v0.0.1"><b>Clic Aqui!</b></a><br>
 > 🔹 Del **lado izquierdo**: Proyecto **en desarrollo activo en Patreon**<br>
 > 🔹 Del **lado derecho**: **Playlists generales** de desarrollo y pruebas en diferentes motores (*Unity, Unreal, etc.*)<br>
+<hr>
 > 🔹 Prototipo del Ladrón Elegante: <a href="https://github.com/MiltonCastro93/Estructura-IA_Status"><b>Clic Aqui!</b></a><br>
-
----
 
 <div align="center"> 
   <table cellspacing="0" cellpadding="0"> 
