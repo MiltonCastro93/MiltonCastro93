@@ -198,7 +198,7 @@ Proyectos Freelance de libre publicación, organizados por año y código para m
     <!-- CODE: AB -->
     <td align="center">
       <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB" target="_blank">
-        <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/Captura%20de%20pantalla%202025-11-05%20111857.png" width="150" style="border-radius:10px" alt="Tanks Combat"/>
+        <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AB/blob/main/icono.jpg" width="150" style="border-radius:10px" alt="Tanks Combat"/>
         <p>
           <b>CODE: AB</b><br>
           <b>Tanks Combat</b><br>
