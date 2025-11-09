@@ -209,7 +209,7 @@ Proyectos Freelance de libre publicación, organizados por año y código para m
     <!-- CODE: AC -->
     <td align="center">
       <a href="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC" target="_blank">
-        <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/icon.png" width="150" style="border-radius:10px" alt="Small Toys"/>
+        <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AC/blob/main/icononew.png" width="150" style="border-radius:10px" alt="Small Toys"/>
         <p>
           <b>CODE: AC</b><br>
           <b>Small Toys</b><br>
