@@ -159,6 +159,12 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
         <p><b>Fuga de la Corona</b><br><sub>Sigilo / Aventura / Supervivencia</sub></p>
       </a>
     </td>
+        <td align="center">
+      <a href="https://github.com/MiltonCastro93/Jumps-Proyects">
+        <img src="https://github.com/MiltonCastro93/Jumps-Proyects/blob/main/Captura%20de%20pantalla%202025-11-11%20114328.png" width="150" style="border-radius:10px"/>
+        <p><b>Jumps Proyects</b><br><sub>Recoleccion / Aventura / Plataformero 3D</sub></p>
+      </a>
+    </td>
   </tr>
 </table>
 
