@@ -27,16 +27,30 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
   <li>📄 Descargar CV: <a href="https://github.com/MiltonCastro93/hello-world/blob/main/CVMiltonDenisCastro.docx" target="_blank"> Clic Aqui! </a></li>
   <hr>
   <li>💬 Mis Intereses: Videojuegos, series y películas.</li>
+  <li><p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/></p></li>
 </ul>
 
 <hr>
 ## 🎬 Contenido y Desarrollo en Paralelo
 
-> 🔹 Prototipo del Ladrón Elegante (Version Test Logico) [Unity Engine]: <a href="https://github.com/MiltonCastro93/OldSistem-IA/tree/main"><b>Clic Aqui!</b></a><br>
-> 🔹 Prototipo del Las Tierras Olvidadas [Unreal Engine 5.6]: <a href="https://github.com/MiltonCastro93/Souls_Like-Action"><b>Clic Aqui!</b></a><br>
-> 🔹 Prototipos viejos Hecho con Unreal (2020): <a href="https://github.com/MiltonCastro93/hello-world/releases/tag/v0.0.1"><b>Clic Aqui!</b></a><br>
-> 🔹 Del **lado izquierdo**: Proyecto **en desarrollo activo en Patreon**<br>
-> 🔹 Del **lado derecho**: **Playlists generales** de desarrollo y pruebas en diferentes motores (*Unity, Unreal, etc.*)<br>
+> 🧠 **Prototipo del Ladrón Elegante (Versión Lógica - Unity 2022):**  
+>🔹 <a href="https://github.com/MiltonCastro93/OldSistem-IA/tree/main"><b>🔗 Ver Repositorio</b></a>  
+>🔹 <sub>Proyecto original centrado en IA modular y comportamiento de enemigos.</sub>
+
+> 🏰 **Prototipo de Las Tierras Olvidadas (Unreal Engine 5.6):**  
+>🔹 <a href="https://github.com/MiltonCastro93/Souls_Like-Action"><b>🔗 Ver Repositorio</b></a>  
+>🔹 <sub>Prototipo tipo Souls-like enfocado en combate, cámara dinámica y ambientación oscura.</sub>
+
+> 💾 **Prototipos antiguos (Unreal - 2020):**  
+>🔹 <a href="https://github.com/MiltonCastro93/hello-world/releases/tag/v0.0.1"><b>🔗 Ver Archivos Históricos</b></a>  
+>🔹 <sub>Primeros experimentos y proyectos iniciales de lógica en Unreal Engine.</sub>
+
+---
+
+📂 **Organización de contenido:**
+- 🔹 En el **lado izquierdo**, encontrarás el proyecto **en desarrollo activo en Patreon**.  
+- 🔹 En el **lado derecho**, se incluyen las **playlists generales** con avances y pruebas en Unity y Unreal.  
+- 🔹 Cada prototipo cuenta con su propio README técnico, capturas y enlaces a videos de desarrollo.
 
 ---
 
@@ -427,30 +441,3 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 </table>
 
 <hr>
-
-## 🎬 Contenido y Desarrollo en Paralelo
-
-> 🧠 **Prototipo del Ladrón Elegante (Versión Lógica - Unity 2022):**  
-> <a href="https://github.com/MiltonCastro93/OldSistem-IA/tree/main"><b>🔗 Ver Repositorio</b></a>  
-> <sub>Proyecto original centrado en IA modular y comportamiento de enemigos.</sub>
-
-> 🏰 **Prototipo de Las Tierras Olvidadas (Unreal Engine 5.6):**  
-> <a href="https://github.com/MiltonCastro93/Souls_Like-Action"><b>🔗 Ver Repositorio</b></a>  
-> <sub>Prototipo tipo Souls-like enfocado en combate, cámara dinámica y ambientación oscura.</sub>
-
-> 💾 **Prototipos antiguos (Unreal - 2020):**  
-> <a href="https://github.com/MiltonCastro93/hello-world/releases/tag/v0.0.1"><b>🔗 Ver Archivos Históricos</b></a>  
-> <sub>Primeros experimentos y proyectos iniciales de lógica en Unreal Engine.</sub>
-
----
-
-📂 **Organización de contenido:**
-- 🔹 En el **lado izquierdo**, encontrarás el proyecto **en desarrollo activo en Patreon**.  
-- 🔹 En el **lado derecho**, se incluyen las **playlists generales** con avances y pruebas en Unity y Unreal.  
-- 🔹 Cada prototipo cuenta con su propio README técnico, capturas y enlaces a videos de desarrollo.
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/>
-</p>
