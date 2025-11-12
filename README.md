@@ -17,6 +17,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 <hr>
 
 <h3 align="center">Un Dev Apasionado en Argentina</h3>
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/></p>
 
 <ul>
   <li>🔭 Actualmente trabajando en <b>El Ladrón Elegante</b> <a href="https://www.patreon.com/c/elladronelegante" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/images.png" alt="Patreon" width="80" height="60"/></a></li>
@@ -27,7 +28,6 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
   <li>📄 Descargar CV: <a href="https://github.com/MiltonCastro93/hello-world/blob/main/CVMiltonDenisCastro.docx" target="_blank"> Clic Aqui! </a></li>
   <hr>
   <li>💬 Mis Intereses: Videojuegos, series y películas.</li>
-  <li><p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/></p></li>
 </ul>
 
 <hr>
