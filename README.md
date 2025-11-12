@@ -445,7 +445,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
   </tr>
   <tr>
     <td><b>📚 Experiencia y Formación</b></td>
-    <td>Imagen Campus · UTN BA · GitHub · Itch.io · Patreon Dev Logs</td>
+    <td>Imagen Campus · UTN BA · GitHub</td>
     <td align="center">🟢 Semi-Senior</td>
   </tr>
 </table>
