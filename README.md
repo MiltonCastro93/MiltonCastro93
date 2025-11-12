@@ -30,7 +30,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 </ul>
 
 <hr>
-## 🎬 Contenido y Desarrollo en Paralelo <p><img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/></p>
+## 🎬 Contenido y Desarrollo en Paralelo
 
 > 🧠 **Prototipo del Ladrón Elegante (Versión Lógica - Unity 2022):**  
 >🔹 <a href="https://github.com/MiltonCastro93/OldSistem-IA/tree/main"><b>🔗 Ver Repositorio</b></a>  
@@ -43,6 +43,11 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 > 💾 **Prototipos antiguos (Unreal - 2020):**  
 >🔹 <a href="https://github.com/MiltonCastro93/hello-world/releases/tag/v0.0.1"><b>🔗 Ver Archivos Históricos</b></a>  
 >🔹 <sub>Primeros experimentos y proyectos iniciales de lógica en Unreal Engine.</sub>
+---
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/>
+</p>
 
 ---
 
