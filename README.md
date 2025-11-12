@@ -1,22 +1,35 @@
-<h1 align="center">Hola a Todos! 👋</h1>
+<h1 align="center">👋 ¡Hola a Todos!</h1>
 
-<p align="center"><b>Desarrollador de videojuegos y programador independiente</b></p>
+<p align="center"><b>Desarrollador de Videojuegos y Programador Independiente</b></p>
 
-<p>
+---
+
+<p align="justify">
 Soy <b>Milton</b>, desarrollador de videojuegos desde <b>2006</b>, con una trayectoria que abarca desde motores clásicos 2D hasta entornos profesionales 3D.  
-Comencé utilizando <b>RPG Maker</b> (entre 2006 y 2015), aprendiendo los fundamentos del diseño narrativo y la lógica de eventos.  
+Comencé utilizando <b>RPG Maker</b> (2006–2015), aprendiendo los fundamentos del diseño narrativo y la lógica de eventos.  
 Más adelante trabajé con <b>Game Maker</b> y <b>Construct</b>, reforzando mi experiencia en <b>prototipado y programación visual</b>.  
 Desde <b>2017</b>, me especializo en <b>Unity</b> y <b>Unreal Engine</b>, enfocándome en scripting, integración audiovisual y diseño técnico de gameplay.  
 He participado en <b>proyectos individuales y colaborativos</b>, además de ofrecer <b>servicios freelance</b> y <b>tutorías</b> en desarrollo interactivo.  
-Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un juego indie con estética anime desarrollado en <b>Unity</b>.
+Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un juego indie con estética anime desarrollado en <b>Unity 6 HDRP</b>.
 </p>
+
+---
 
 <h3 align="left">🧠 Nivel de Conocimientos y Habilidades</h3>
-<p align="left">
-  <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos. Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
+
+<p align="justify">
+💬 Más de <b>4 años</b> de experiencia en desarrollo independiente y prototipado de videojuegos.  
+Enfocado en <b>programación</b>, <b>diseño sonoro</b> y <b>dirección técnica</b> de proyectos desarrollados con Unity y Unreal Engine.  
+Experiencia en sistemas de IA, control de cámaras, lógica de gameplay, optimización, y edición de audio para entornos interactivos.
 </p>
 
-<h3 align="left">🚀 Evolución de Motores y Herramientas <p align="center"><b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)</p></h4>
+---
+
+<h3 align="left">🚀 Evolución de Motores y Herramientas</h3>
+
+<p align="center">
+  <b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → <b>Unity</b> → <b>Unreal Engine</b>
+</p>
 
 <hr>
 
