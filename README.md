@@ -12,9 +12,8 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 </p>
 
 <h3 align="left">🧠 Nivel de Conocimientos y Habilidades</h3>
-<p align="center">
-  <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos.<br>
-  Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
+<p align="left">
+  <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos. Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
 </p>
 
 <h3 align="left">🚀 Evolución de Motores y Herramientas <p align="center"><b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)</p></h4>
