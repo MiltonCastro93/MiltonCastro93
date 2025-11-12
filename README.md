@@ -17,7 +17,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
   Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
 </p>
 
-<h4 align="left">🚀 Evolución de Motores y Herramientas <p align="center"><b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)</p></h4>
+<h3 align="left">🚀 Evolución de Motores y Herramientas <p align="center"><b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)</p></h4>
 
 <hr>
 
