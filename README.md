@@ -1,6 +1,6 @@
 <h1 align="center">Hola a Todos! 👋</h1>
 
-<p align="center"><b>Desarrollador de videojuegos y programador independiente <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/></b></p>
+<p align="center"><b>Desarrollador de videojuegos y programador independiente</b></p>
 
 <p>
 Soy <b>Milton</b>, desarrollador de videojuegos desde <b>2006</b>, con una trayectoria que abarca desde motores clásicos 2D hasta entornos profesionales 3D.  
@@ -17,7 +17,6 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 <hr>
 
 <h3 align="center">Un Dev Apasionado en Argentina</h3>
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/></p>
 
 <ul>
   <li>🔭 Actualmente trabajando en <b>El Ladrón Elegante</b> <a href="https://www.patreon.com/c/elladronelegante" target="_blank"><img src="https://github.com/MiltonCastro93/hello-world/blob/main/images.png" alt="Patreon" width="80" height="60"/></a></li>
@@ -31,7 +30,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 </ul>
 
 <hr>
-## 🎬 Contenido y Desarrollo en Paralelo
+## 🎬 Contenido y Desarrollo en Paralelo <p><img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/></p>
 
 > 🧠 **Prototipo del Ladrón Elegante (Versión Lógica - Unity 2022):**  
 >🔹 <a href="https://github.com/MiltonCastro93/OldSistem-IA/tree/main"><b>🔗 Ver Repositorio</b></a>  
