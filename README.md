@@ -11,6 +11,11 @@ He participado en <b>proyectos individuales y colaborativos</b>, además de ofre
 Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un juego indie con estética anime desarrollado en <b>Unity</b>.
 </p>
 
+<h3 align="left">🧠 Nivel de Conocimientos y Habilidades</h3>
+<p align="center">
+  <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos.<br>
+  Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
+</p>
 
 <h4 align="left">🚀 Evolución de Motores y Herramientas <p align="center"><b>RPG Maker</b> → <b>Game Maker</b> → <b>Construct</b> → (<b>Unity</b> & <b>Unreal Engine</b>)</p></h4>
 
@@ -43,11 +48,6 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 > 💾 **Prototipos antiguos (Unreal - 2020):**  
 >🔹 <a href="https://github.com/MiltonCastro93/hello-world/releases/tag/v0.0.1"><b>🔗 Ver Archivos Históricos</b></a>  
 >🔹 <sub>Primeros experimentos y proyectos iniciales de lógica en Unreal Engine.</sub>
----
-
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/>
-</p>
 
 ---
 
@@ -400,12 +400,6 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 
 <hr>
 
-<h3 align="left">🧠 Nivel de Conocimientos y Habilidades</h3>
-<p align="center">
-  <i>💬 Con más de 4 años de experiencia en desarrollo independiente y prototipado de videojuegos.<br>
-  Enfocado en programación, diseño sonoro y dirección técnica de proyectos Unity/Unreal.</i>
-</p>
-
 <table align="center" width="100%">
   <tr>
     <th align="left">Categoría</th>
@@ -445,3 +439,7 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 </table>
 
 <hr>
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/>
+</p>
