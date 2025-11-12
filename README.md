@@ -32,7 +32,7 @@ Actualmente formo parte del desarrollo de <b>“El Ladrón Elegante”</b>, un j
 <hr>
 ## 🎬 Contenido y Desarrollo en Paralelo
 
-> 🔹 Prototipo del Ladrón Elegante [Unity Engine]: <a href="https://github.com/MiltonCastro93/Estructura-IA_Status"><b>Clic Aqui!</b></a><br>
+> 🔹 Prototipo del Ladrón Elegante (Version Test Logico) [Unity Engine]: <a href="https://github.com/MiltonCastro93/OldSistem-IA/blob/main/README.md"><b>Clic Aqui!</b></a><br>
 > 🔹 Prototipo del Las Tierras Olvidadas [Unreal Engine 5.6]: <a href="https://github.com/MiltonCastro93/Souls_Like-Action"><b>Clic Aqui!</b></a><br>
 > 🔹 Prototipos viejos Hecho con Unreal (2020): <a href="https://github.com/MiltonCastro93/hello-world/releases/tag/v0.0.1"><b>Clic Aqui!</b></a><br>
 > 🔹 Del **lado izquierdo**: Proyecto **en desarrollo activo en Patreon**<br>
