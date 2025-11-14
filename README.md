@@ -412,46 +412,6 @@ Desde 2015 me formo en <b>desarrollo y producción de videojuegos</b>. Inicié e
 
 <hr>
 
-<table align="center" width="100%">
-  <tr>
-    <th align="left">Categoría</th>
-    <th align="left">Habilidades</th>
-    <th align="center">Nivel</th>
-  </tr>
-  <tr>
-    <td><b>🎮 Motores de Juego</b></td>
-    <td>Unity · Unreal Engine</td>
-    <td align="center">🟢 Semi-Senior</td>
-  </tr>
-  <tr>
-    <td><b>💻 Programación</b></td>
-    <td>C# · C++ · JavaScript</td>
-    <td align="center">🟢 Semi-Senior</td>
-  </tr>
-  <tr>
-    <td><b>🎨 Arte y Diseño</b></td>
-    <td>Blender · Krita · Photoshop · Figma · DragonBones</td>
-    <td align="center">🟠 Intermedio</td>
-  </tr>
-  <tr>
-    <td><b>🎧 Audio y Producción</b></td>
-    <td>Reaper · FL Studio · Audacity · Diseño Sonoro</td>
-    <td align="center">🟢 Semi-Senior</td>
-  </tr>
-  <tr>
-    <td><b>🌐 Web y Bases de Datos</b></td>
-    <td>HTML · JavaScript · SQL</td>
-    <td align="center">🟠 Intermedio</td>
-  </tr>
-  <tr>
-    <td><b>📚 Experiencia y Formación</b></td>
-    <td>Imagen Campus · UTN BA · GitHub</td>
-    <td align="center">🟢 Semi-Senior</td>
-  </tr>
-</table>
-
-<hr>
-
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Portfolio" alt="Visitas del Portafolio"/>
 </p>
